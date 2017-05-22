@@ -1,0 +1,22 @@
+{
+  "name": "deduve",
+  "version": "0.1.0",
+  "description": "A digital publication combining Thierry de Duve's series of essays discussing the evolution of Modernism in art. First published in _Artforum_ between October 2013 and April 2014.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonconny/deDuve.git"
+  },
+  "author": "Jason Conny",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jasonconny/deDuve/issues"
+  },
+  "homepage": "https://github.com/jasonconny/deDuve#readme",
+  "devDependencies": {
+    "metalsmith": "^2.3.0",
+    "metalsmith-assets": "^0.1.0",
+    "metalsmith-browser-sync": "^1.1.1",
+    "metalsmith-layouts": "^1.8.1",
+    "metalsmith-markdown": "^0.2.1"
+  }
+}
