@@ -18,6 +18,7 @@
     "metalsmith-assets": "^0.1.0",
     "metalsmith-browser-sync": "^1.1.1",
     "metalsmith-layouts": "^1.8.1",
-    "metalsmith-markdown": "^0.2.1"
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-sass": "^1.4.0"
   }
 }

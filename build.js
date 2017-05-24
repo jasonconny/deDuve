@@ -10,6 +10,7 @@ var
 	metalsmith = require('metalsmith'),
 	markdown = require('metalsmith-markdown'),
 	layouts = require('metalsmith-layouts'),
+	sass = require('metalsmith-sass'),
 	assets = require('metalsmith-assets'),
 	browsersync = require('metalsmith-browser-sync'),
 
@@ -21,7 +22,7 @@ var
 
 	ms = metalsmith(__dirname)
 		.clean(true)
-		.source(dir.source + 'html/')
+		.source(dir.source)
 		.destination(dir.dest)
 		.use(markdown())
 		.use(layouts(templateConfig));
@@ -31,6 +32,16 @@ var
 	 files:  [dir.source + '**/*']
  }));
 
- ms.build(function(err) {
+ ms
+	 .use(assets({
+		 source: dir.source + 'assets/',
+		 destination: 'assets/'
+	 }))
+	 .use(sass({
+		 outputDir: 'assets/css/',
+		 sourceMap: true,
+		 sourceMapContents: true
+	 }))
+	 .build(function(err) {
 	 if (err) throw err;
  });
