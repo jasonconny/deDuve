@@ -1,16 +1,16 @@
-# Don't Shoot the Messenger
-
-## Thierry de Duve on the Duchamp syllogism
+---
+title: Don't Shoot the Messenger
+subtitle: Thierry de Duve on the Duchamp syllogism
+date: 2013-11-01
+layout: article.html
+---
 
 <div class="intro">
-
-**In the second in a series** of new essays on the avant-garde for Artforum, historian and philosopher **Thierry de Duve** picks up where he left off last month—contemplating the reception of Marcel Duchamp's iconic readymade Fountain upon its first appearance, in 1917, and then in a 1960s culture steeped in utopic ambition. Looking anew at long held myths of modernism, de Duve here examines the artistic and institutional legacy of the most notorious artwork of our time, which was rejected by the Society of Independent Artists, only to have a monumental effect—and a nearly equally consequential misprision—in the twentieth century.
-
+    <p>**In the second in a series** of new essays on the avant-garde for Artforum, historian and philosopher **Thierry de Duve** picks up where he left off last month—contemplating the reception of Marcel Duchamp's iconic readymade Fountain upon its first appearance, in 1917, and then in a 1960s culture steeped in utopic ambition. Looking anew at long held myths of modernism, de Duve here examines the artistic and institutional legacy of the most notorious artwork of our time, which was rejected by the Society of Independent Artists, only to have a monumental effect—and a nearly equally consequential misprision—in the twentieth century.</p>
 </div>
 
-> The danger remains that he'll get out of the valise we put him in. So long as he remains locked up—
-> 
-> <cite>—John Cage, "26 Statements Re Duchamp"</cite>
+> The danger remains that he'll get out of the valise we put him in. So long as he remains locked up.
+<cite>—John Cage, "26 Statements Re Duchamp"</cite>
 
 <span class="opening">In 1917, Marcel Duchamp</span> put a message in the mail stating that anything could be art. The message, in the guise of a urinal, did not arrive at its destination until the 1960s, whereupon the whole Western art world reconfigured itself as "post-Duchamp." Thirty years later, the message's arrival was still making ripples: In 1994, the editors of the journal _October_ devoted an entire issue to them; they titled it "The Duchamp Effect."<sup><a>1</a></sup> Another nine years down the road, and said effect began to draw serious criticism from the field of postcolonial studies. Thus Okwui Enwezor:
 
@@ -22,7 +22,7 @@ Indeterminacy was very much part of the Duchamp effect in the '50s—witness Joh
 
 <aside>
 
-### Duchamp was merely the messenger—the whistle-blower—of the news that it is now technically feasible and institutionally legitimate to make art from anything whatsoever.
+Duchamp was merely the messenger—the whistle-blower—of the news that it is now technically feasible and institutionally legitimate to make art from anything whatsoever.
 
 </aside>
 
@@ -54,7 +54,7 @@ The original 1917 _Fountain_ is lost; nobody knows what really happened to it. A
 
 <aside>
 
-### I don't see that Duchamp was able—or wanted, for that matter—to control the interpretations his work spawned.
+I don't see that Duchamp was able—or wanted, for that matter—to control the interpretations his work spawned.
 
 </aside>
 
@@ -71,7 +71,7 @@ The only _Fountain_ replica to have entered a museum in Duchamp's lifetime is th
 
 <aside>
 
-### The art world of the '60s seems to have inferred that everybody was—could be, should be, would be—an artist. But from the vantage point of today, it is all too blatantly clear that not everybody has become one.
+The art world of the '60s seems to have inferred that everybody was—could be, should be, would be—an artist. But from the vantage point of today, it is all too blatantly clear that not everybody has become one.
 
 </aside>
 
@@ -103,7 +103,7 @@ Why indeed? Robert Filliou—whose "principle of equivalence" between "well made
 
 <aside>
 
-### It is time to move on, time to stop mistaking an angel for a prophet (_angelos_ means "messenger"). And it is time to rewrite art-historical narrative—respecting, not inverting, the logic of the facts.
+It is time to move on, time to stop mistaking an angel for a prophet (_angelos_ means "messenger"). And it is time to rewrite art-historical narrative—respecting, not inverting, the logic of the facts.
 
 </aside>
 
