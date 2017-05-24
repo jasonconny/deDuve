@@ -8,6 +8,7 @@ body {
 
 article {
   margin: 3em 20% 4em 3em;
+  max-width: 840px;
 }
 
 h1,
@@ -32,6 +33,19 @@ h2 {
   }
 }
 
+h3 {
+  border-top: 2px solid $paleGray;
+  font-size: .75em;
+  font-weight: 700;
+  letter-spacing: .5em;
+  margin: 8em 0 1.5em;
+  padding: .5em 0 0;
+  text-transform: uppercase;
+  + p {
+    font-size: .875em;
+  }
+}
+
 p,
 li {
   color: $black;
@@ -47,6 +61,7 @@ p {
   .intro & {
     font-family: "Open Sans", sans-serif;
     font-weight: 600;
+    margin: 0 0 2em;
     strong {
       font-weight: 700;
       text-transform: uppercase;
@@ -68,7 +83,7 @@ li {
   font-size: .75em;
   line-height: 1.25;
   + li {
-    margin: 1.25em 0 0;
+    margin: 1em 0 0;
   }
 }
 
@@ -90,5 +105,21 @@ blockquote {
   cite {
     display: block;
     font-style: normal;
+  }
+}
+
+figure {
+  margin: 0;
+  img {
+    width: 100%;
+  }
+}
+
+figcaption {
+  font-family: "Open Sans", sans-serif;
+  font-size: .5em;
+  font-weight: 600;
+  .credit {
+    font-weight: 400;
   }
 }

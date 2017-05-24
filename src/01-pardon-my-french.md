@@ -11,6 +11,14 @@ layout: article.html
     <p>But what if we've missed something? What if our narrative of the avant-garde and the route it traces is too narrow, too ease? And what if, as a result, we have misunderstood our contemporary institutions of art? In a series of essay for _Artforum_ launching this month, historian and philosopher **<u>Thierry de Duve</u>** returns to the subject of his landmark "The Readymade and the Tube of Paint," first published in these pages in 1986\. If that text has changed the way we understood the production of art, de Duve now overturns our understanding of the invention of the avant-gard—and presents Marcel Duchamp anew, as the messenger rather than the creator of a far earlier sea change in culture. Spanning three centuries, de Duve's provocative argument leads to a riveting reinterpretation of the very concept and status of art.</p>
 </div>
 
+<figure>
+![Eve Babbitz and Marcel Duchamp playing chess](/assets/img/01/duchamp-babbitz-chess.jpg)
+    
+    <figcaption>
+        Eve Babbitz and Marcel Duchamp playing chess at "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963. <span class="credit">Photo: Julian Wasser.</span>
+    </figcaption>
+</figure>
+
 > Theorization comes easily; it requires nothing more than imagination, fantasy. Myths are theories that have stiffened. To debunk a myth is to flex a countertheory.<sup><a>1</a></sup>
 <cite>—Richard Shiff</cite>
 
