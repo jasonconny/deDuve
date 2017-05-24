@@ -6,16 +6,13 @@ layout: article.html
 ---
 
 <div class="intro">
+    <p>**This year**, the 1913 Armory Show turns one hundred. That watershed exhibition—together with the emergence of the readymade—has long been seen as a pivotal moment in modernism's relentlessly revolutionary progress, blowing the category of modern art wide open and ushering in the avant-garde's signal conditions of shock and rupture. (This centennial will be celebrated by a number of exhibitions and events, including "The Armory Show at 100: Modern Art and Revolution," opening at the New York Historical Society on October 11.)</p>
 
-**This year**, the 1913 Armory Show turns one hundred. That watershed exhibition—together with the emergence of the readymade—has long been seen as a pivotal moment in modernism's relentlessly revolutionary progress, blowing the category of modern art wide open and ushering in the avant-garde's signal conditions of shock and rupture. (This centennial will be celebrated by a number of exhibitions and events, including "The Armory Show at 100: Modern Art and Revolution," opening at the New York Historical Society on October 11.)
-
-But what if we've missed something? What if our narrative of the avant-garde and the route it traces is too narrow, too ease? And what if, as a result, we have misunderstood our contemporary institutions of art? In a series of essay for _Artforum_ launching this month, historian and philosopher **<u>Thierry de Duve</u>** returns to the subject of his landmark "The Readymade and the Tube of Paint," first published in these pages in 1986\. If that text has changed the way we understood the production of art, de Duve now overturns our understanding of the invention of the avant-gard—and presents Marcel Duchamp anew, as the messenger rather than the creator of a far earlier sea change in culture. Spanning three centuries, de Duve's provocative argument leads to a riveting reinterpretation of the very concept and status of art.
-
+    <p>But what if we've missed something? What if our narrative of the avant-garde and the route it traces is too narrow, too ease? And what if, as a result, we have misunderstood our contemporary institutions of art? In a series of essay for _Artforum_ launching this month, historian and philosopher **<u>Thierry de Duve</u>** returns to the subject of his landmark "The Readymade and the Tube of Paint," first published in these pages in 1986\. If that text has changed the way we understood the production of art, de Duve now overturns our understanding of the invention of the avant-gard—and presents Marcel Duchamp anew, as the messenger rather than the creator of a far earlier sea change in culture. Spanning three centuries, de Duve's provocative argument leads to a riveting reinterpretation of the very concept and status of art.</p>
 </div>
 
 > Theorization comes easily; it requires nothing more than imagination, fantasy. Myths are theories that have stiffened. To debunk a myth is to flex a countertheory.<sup><a>1</a></sup>
-> 
-> <cite>—Richard Shiff</cite>
+<cite>—Richard Shiff</cite>
 
 <span class="opening">Theories in art history,</span> as scholar Richard Shiff suggests in the beautiful passage I have chosen as an epigraph, are easily fabricated. And when fabricated theories age, they stiffen but are not abandoned; they become myths. Yet countertheories capable of debunking a myth can be flexed—made pliant and nimble, never contrived of fantasized. Economy of means and amenity toward as many facts as possible are their major qualities. Imagination is not in the art historian's toolbox.
 
@@ -25,7 +22,7 @@ I want to take a neglected route to such a reassessment: the aesthetic route. It
 
 <aside>
 
-### Does the malaise around the _neo_ and the _post_ not call for a reassessment—a reappraisal, perhaps, a reinterpretaion, cerainly—of the avant-garde and modernism?
+Does the malaise around the _neo_ and the _post_ not call for a reassessment—a reappraisal, perhaps, a reinterpretaion, cerainly—of the avant-garde and modernism?
 
 </aside>
 
@@ -53,7 +50,7 @@ We might say that in 1917—the date _Fountain_ proudly bears, along with the my
 
 <aside>
 
-### We might say that in 1917 Duchamp put a message in the mail, and that it had surely arrived by 1962.
+We might say that in 1917 Duchamp put a message in the mail, and that it had surely arrived by 1962.
 
 </aside>
 
@@ -77,7 +74,7 @@ This is the very stuff of mythmaking. It is not Warhol acknowledging Duchamp's t
 
 <aside>
 
-### Was art devoid of identity before Duchamp? Or did Duchamp single-handedly change the identity of art?
+Was art devoid of identity before Duchamp? Or did Duchamp single-handedly change the identity of art?
 
 </aside>
 

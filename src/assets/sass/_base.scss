@@ -1,9 +1,94 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $white;
+}
+
+article {
+  margin: 3em 20% 4em 3em;
+}
+
 h1,
 h2,
 h3 {
+  color: $black;
   font-family: $openSans;
 }
 
-p {
+h1 {
+  font-size: 4em;
+  font-weight: 300;
+  margin: 1em 0 0;
+}
+
+h2 {
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 1em 0 0;
+  + .intro {
+    margin: 4em 0 0;
+  }
+}
+
+p,
+li {
+  color: $black;
   font-family: $sourceSerifPro;
+  margin: 0;
+}
+
+p {
+  line-height: 1.5;
+  + p {
+    margin: 1em 0 0;
+  }
+  .intro & {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    strong {
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+  }
+  .opening {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+}
+
+hr {
+  border: none;
+  margin: 2.5em 0 0;
+}
+
+li {
+  font-size: .75em;
+  line-height: 1.25;
+  + li {
+    margin: 1.25em 0 0;
+  }
+}
+
+aside {
+  font-family: "Source Serif Pro", serif;
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 2em 3em;
+}
+
+blockquote {
+  font-style: italic;
+  &:first-of-type {
+    border-left: 1em $paleGray solid;
+    margin: 2em 0;
+    padding: .5em 2em 0.5em 4em;
+    width: 66.666666%;
+  }
+  cite {
+    display: block;
+    font-style: normal;
+  }
 }
