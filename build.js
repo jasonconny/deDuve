@@ -8,10 +8,11 @@ var
 	},
 
 	metalsmith = require('metalsmith'),
+	slug = require('metalsmith-slug'),
 	markdown = require('metalsmith-markdown'),
 	layouts = require('metalsmith-layouts'),
-	sass = require('metalsmith-sass'),
 	assets = require('metalsmith-assets'),
+	sass = require('metalsmith-sass'),
 	browsersync = require('metalsmith-browser-sync'),
 
 	templateConfig = {
@@ -24,6 +25,11 @@ var
 		.clean(true)
 		.source(dir.source)
 		.destination(dir.dest)
+		.use(slug({
+			lower: true,
+			patterns: ['*.md'],
+			property: 'title'
+		}))
 		.use(markdown())
 		.use(layouts(templateConfig));
 
