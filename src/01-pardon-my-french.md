@@ -12,10 +12,18 @@ layout: article.html
 </div>
 
 <figure>
-![Eve Babbitz and Marcel Duchamp playing chess](/assets/img/01/duchamp-babbitz-chess.jpg)
+![Eve Babbitz and Marcel Duchamp playing chess at "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963](/assets/img/01/duchamp-babbitz-chess.jpg)
     
     <figcaption>
-        Eve Babbitz and Marcel Duchamp playing chess at "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963. <span class="credit">Photo: Julian Wasser.</span>
+        <strong>Eve Babbitz and Marcel Duchamp playing chess at "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963.</strong> Photo: Julian Wasser.
+    </figcaption>
+</figure>
+
+<figure>
+![Ben (Benjamin Vautier), Boîte noire (Black Box), 1962](/assets/img/01/black-box.jpg)
+
+    <figcaption>
+        <strong>Ben (Benjamin Vautier), <em>Boîte noire</em> (Black Box), 1962,</strong> wood, acrylic paint, dimensions unknown.
     </figcaption>
 </figure>
 
@@ -52,7 +60,39 @@ Pardon my French, or rather Ben's, as scrawled on the side of his object: DEPUIS
 
 From our contemporary vantage point, more than a decade into the twenty-first century, Ben's answer sounds so self-evident that we must pause in order to unpack the reasoning behind it. First, to what exact time frame does "since Duchamp" refer? Duchamp was born in 1887 and died in 1968\. To put things pompously, in the Latin dear to art historians, 1887 provides the _terminus post quem_ and 1962 the _terminus ante quem_ of our question. If we take Ben's word for it, this means the concept of art was not open to the arrival of the _n'importe quoi_ before Duchamp's birth—giving him a couple of decades to grow up and mature, this pushes the date to the 1910s—and has already registered the _n'importe quoi_ by 1962, the date of Ben's _Black Box_. Duchamp was still alive when Ben bounced back to him the news he himself had been the first to broadcast. As we shall see, the proper dating of "since Duchamp" involves both the 1910s and the 1960s, but let's not rush, for Ben's box prompts another question, which we should address first. What particular achievement of Duchamp's does Ben have in mind?
 
+<figure>
+![Marcel Duchamp, Nude Descendig a Staircase (No. 2), 1912](/assets/img/01/nude-descending-a-staircase.jpg)
+    
+    <figcaption>
+        <strong>Marcel Duchamp, <em>Nude Descendig a Staircase (No. 2)</em>, 1912</strong> oil on canvase, 57 1/2 x 35 1/4".
+    </figcaption>
+</figure>
+
+<figure>
+![Multiple-exposure photograph of Marcel Duchamp, 1952](/assets/img/01/multiple-exposure.jpg)
+
+    <figcaption>
+        <strong>Multiple-exposure photograph of Marcel Duchamp, 1952.</strong> Photo: Eliot Elisofon/Time &amp; Life Pictures/Getty Images.
+    </figcaption>
+</figure>
+
 The latter's own practice of signing found objects makes it clear that "since Duchamp" does not mean since Duchamp's _Large Glass_, 1915‑23, or _Nude Descending a Staircase (No. 2)_, 1912\. Ben's box is willing to accommodate anything and everything because it already contains all of Duchamp's readymades, from the _Bicycle Wheel_ of 1913 to the urinal called _Fountain_ of 1917, once the most infamous and now, if we are to believe a 2004 poll of five hundred art experts, "the most influential modern art work of all time."<sup><a>4</a></sup> _Pace_ the experts, _influential_ is the wrong word. Ben was not influenced by Duchamp. He felt _authorized_ by Duchamp, which is quite different. Whether it is _by_ Duchamp that he felt authorized is not even so clear: _Since_ Duchamp doesn't mean _thanks to_ Duchamp. Ben must have sensed the pressure as much as the liberation, and he felt compelled to burn his bridges.Duchamp's authorization closed down on him in such a way that he had no choice but to act on his subjective impression that, since Duchamp's readymades, since _Fountain_, all artists have received permission to make art from whatever they want. He might even have sensed that "all artists" is too restrictive: The impersonal _on peut_… suggests "anyone" instead. Let _Fountain_ thus summarize, symbolize, or epitomize the reasoning behind Ben's _Black Box_: When a urinal is art, then anything and everything can be art, and chances are that anybody can be an artist. _Fountain_'s presence in the art box legitimates the subsequent landing of any imaginable thing in it and the potential promotion of the man on the street to the rank of artist. Ben knows what he owes Duchamp: precisely the news his _Black Box_ broadcasts. In spite of his egomania (true or feigned, often boasted), there is humility in his _Black Box_, as if he were saying: Duchamp is the real messenger and I, Ben, am only acknowledging receipt of his telegram and passing it on.
+
+<figure>
+![Marcel Duchamp, Fountain, 1917/1964](/assets/img/01/fountain.jpg)
+    
+    <figcaption>
+        <strong>Marcel Duchamp, <em>Fountain</em>, 1917/1964,</strong> glazed ceramic, paint, 15 x 19 1/4 x 24 5/8".
+    </figcaption>
+</figure>
+
+<figure>
+![Ben (Benjamin Vautier), Moi Ben Je Signe (Me Ben I Sign), 1975](/assets/img/01/moi-ben-je-signe.jpg)
+
+    <figcaption>
+        <strong>Ben (Benjamin Vautier), <em>Moi Ben Je Signe</em> (Me Ben I Sign), 1975,</strong> cardboard, paper, 3 1/2 x 4 5/8 x approx. 1/2".
+    </figcaption>
+</figure>
 
 We might say that in 1917—the date _Fountain_ proudly bears, along with the mysterious signature "R. Mutt"—Duchamp put a message in the mail, and that it had surely arrived by 1962\. Ben's _Black Box_ is an acknowledgment of receipt. It registers the fact that _Fountain_ has landed in the art box. Dates are symbolic as much as factual: They form constellations, as Walter Benjamin would say, clusters of events and meanings, anticipations, belated effects. DEPUIS DUCHAMP is a conundrum of reception history framed by the 1910s, the decade of the first readymades, and the '60s, the decade when the art world as a whole seems to reconfigure itself as post-Duchamp.
 
@@ -63,6 +103,30 @@ We might say that in 1917 Duchamp put a message in the mail, and that it had sur
 </aside>
 
 The year 1962 is as good a symbolic date to start from as any. It was a prolific year for Ben. Daniel Spoerri and Arman had briefed him on Duchamp a few years before; he had recently met George Maciunas in London and joined Fluxus; he was assimilating John Cage while still revering Isidore Isou; he was jealous of Yves Klein's megalomania and admiring George Brecht for making art from the simplest acts of everyday life; he was sending letters to the winds not knowing yet they were mail art; he was reveling in Duchamp's authorization with a sense of exhilarated omnipotence. In fact, he was so inebriated by his new liberty that he frantically began to appropriate and sign _everything_, including God.<sup><a>5</a></sup> At the time, Ben was far from being the only artist to feel excited and empowered by Duchamp's readymades. Arman, also living in Nice, France, was churning out "Accumulations" by the dozen, while in New York, Claes Oldenburg was putting an extraordinary bric-a-brac of mock commodities, painted with streaks of strident colors, up for sale in _The Store_. And then, of course, there was Andy Warhol. The poet, artist, and AIDS activist John Giorno recalls an evening in May 1963, when he and Warhol went to an opening at the Whitney Museum of American Art and met Duchamp for the first time. Here is Giorno's account of the event:
+
+<figure>
+![Ben (Benjamin Vautier), L'Art est une question de nom propre (Art is a Matter of Proper Names), 1974](/assets/img/01/lart-est-une-question-de-nom-propre.jpg)
+    
+    <figcaption>
+        <strong>Ben (Benjamin Vautier), <em>L'Art est une question de nom propre</em> (Art is a Matter of Proper Names), 1974,</strong> oil on canvas, 45 5/8 x 35".
+    </figcaption>
+</figure>
+
+<figure>
+![Ben (Benjamin Vautier), Le Magasin de Ben (The Ben Store) (detail) 1958-73](/assets/img/01/le-magasin.jpg)
+
+    <figcaption>
+        <strong>Ben (Benjamin Vautier), <em>Le Magasin de Ben</em> (The Ben Store) (detail) 1958-73,</strong> mixed-media, 11' 5 3/4" x 16' 4 7/8" x 11' 5 3/4".
+    </figcaption>
+</figure>
+
+<figure>
+![Arman, Bebida loca (Crazy Drink), 1960](/assets/img/01/bebida-loca.jpg)
+
+    <figcaption>
+        <strong>Arman, <em>Bebida loca</em> (Crazy Drink), 1960,</strong> wood, plexiglass, soda-bottle caps, 31 1/2 x 11 3/4 x 2 1/2".
+    </figcaption>
+</figure>
 
 > There was a crowd, a big semicircle of people at the museum entrance waiting to get in. Andy and I stood on the hot tar street at the edge of the crowd, and waited.
 > 
@@ -86,9 +150,33 @@ Was art devoid of identity before Duchamp? Or did Duchamp single-handedly change
 
 </aside>
 
+<figure>
+![Andy Warhol, Billy Al Bengston and Dennis Hopper at the opening reception of "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963](/assets/img/01/andy-billy-dennis.jpg)
+
+    <figcaption>
+        <strong>Andy Warhol, Billy Al Bengston and Dennis Hopper at the opening reception of "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963.</strong> Photo: Julian Wasser.
+    </figcaption>
+</figure>
+
 Curated by the ever-alert Walter Hopps, "By or of Marcel Duchamp or Rrose Sélavy" was the artist's very first museum survey. Already a cult figure among au courant artists, he was not totally unknown, but his works had seldom been seen outside of the rare exhibition (either a large group museum survey or small gallery exhibitions up for a short time, including the important 1953 Sidney Janis show on Dada in New York), with the exception of those in the Arensberg Collection, on view in Chicago in 1949 and at the Philadelphia Museum of Art since 1954\. Although _Life_ magazine had published a remarkably well-informed article by Winthrop Sargeant as early as 1952, Duchamp's reputation with the average citizen was rarely more specific than the image of an eccentric artist who preferred playing chess to making works.<sup><a>7</a></sup> The 1963 Pasadena retrospective suddenly changed that. Not that chess and eccentricity were replaced overnight by more serious information: The most spectacular photo of Duchamp at the time shows the artist playing chess in the exhibition with a naked woman.<sup><a>8</a></sup> But it was the first comprehensive display of his oeuvre a large audience was likely to attend. Thus far only art-world insiders had a sense of his importance; now his star was rising fast. As the decade moved on, his work was increasingly perceived as more relevant to current practices than Picasso's. Reviewing Duchamp's retrospective at the Cordier & Ekstrom Gallery in 1965 for the _New York Times_, John Canaday estimated that Duchamp was "about even with Picasso . . . as the living godhead of modern art," only to add:
 
 > Picasso, if you are a Duchamp man, is left behind in a cloud of intellectual dust as the last of the humanists, while Duchamp is the man who knows that nothing—art least of all—is important, but that all of it can be fun.<sup><a>9</a></sup>
+
+<figure>
+![Marcel Duchamp, Roue de bicyclette (Bicycle Wheel), 1913/1964](/assets/img/01/roue-de-bicyclette.jpg)
+
+    <figcaption>
+        <strong>Marcel Duchamp, <em>Roue de bicyclette</em> (Bicycle Wheel), 1913/1964,</strong> metal, painted-wood, 49 3/4 x 12 3/8 x 25".
+    </figcaption>
+</figure>
+
+<figure>
+![Piero Manzoni signing a model during the making of a short film for Filmfiornale SEDI, Milan, 1961.](/assets/img/01/piero-manzoni.jpg)
+
+    <figcaption>
+        <strong>Piero Manzoni signing a model during the making of a short film for Filmfiornale SEDI, Milan, 1961.</strong>
+    </figcaption>
+</figure>
 
 Artists were registering the fun and lack of importance of art in a variety of ways that belied Canaday's comment more often than not. Duchamp's American reception by Oldenburg and Warhol's generation of Pop artists had been prepared in the '50s by Robert Rauschenberg and Jasper Johns, not to mention John Cage, Merce Cunningham, David Tudor, and others, for whom chance, lightness, and freedom in art were more than just fun. The timing and the seriousness were similar in Europe for Richard Hamilton and the British inventors of Pop art, as well as for Klein and Manzoni, soon followed by Ben, Arman, the Nouveaux Réalistes and the Fluxus artists. By the mid-'60s, virtually all significant young artists on both sides of the Atlantic, South America included, had their eyes on Duchamp or were under his spell. Probably the most literal reception of Duchamp's message was a mock public toilet installed by Roberto Platé at the "_Experiencias_ 1968" show at the Instituto Torcuato di Tella in Buenos Aires.<sup><a>10</a></sup> And a year later, once Conceptual art had begun to receive official recognition and Duchamp had passed away, extravagant claims began to be made on his behalf. In his seminal 1969 text _Art After Philosophy_, Joseph Kosuth went so far as to profess: "The function of art, as a question, was first raised by Marcel Duchamp. In fact it is Marcel Duchamp whom we can credit with giving art its own identity."<sup><a>11</a></sup> A claim this bold should give us pause. Was art devoid of identity before Duchamp? Or did Duchamp single-handedly change the identity of art? Did Kosuth not mistake the messenger of an ontological metamorphosis for its author? Was this metamorphosis really ontological?
 

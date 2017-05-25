@@ -9,7 +9,7 @@ layout: article.html
     <p>**In the second in a series** of new essays on the avant-garde for Artforum, historian and philosopher **Thierry de Duve** picks up where he left off last month—contemplating the reception of Marcel Duchamp's iconic readymade Fountain upon its first appearance, in 1917, and then in a 1960s culture steeped in utopic ambition. Looking anew at long held myths of modernism, de Duve here examines the artistic and institutional legacy of the most notorious artwork of our time, which was rejected by the Society of Independent Artists, only to have a monumental effect—and a nearly equally consequential misprision—in the twentieth century.</p>
 </div>
 
-> The danger remains that he'll get out of the valise we put him in. So long as he remains locked up.
+> The danger remains that he'll get out of the valise we put him in. So long as he remains locked up—
 <cite>—John Cage, "26 Statements Re Duchamp"</cite>
 
 <span class="opening">In 1917, Marcel Duchamp</span> put a message in the mail stating that anything could be art. The message, in the guise of a urinal, did not arrive at its destination until the 1960s, whereupon the whole Western art world reconfigured itself as "post-Duchamp." Thirty years later, the message's arrival was still making ripples: In 1994, the editors of the journal _October_ devoted an entire issue to them; they titled it "The Duchamp Effect."<sup><a>1</a></sup> Another nine years down the road, and said effect began to draw serious criticism from the field of postcolonial studies. Thus Okwui Enwezor:

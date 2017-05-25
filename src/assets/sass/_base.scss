@@ -43,6 +43,7 @@ h3 {
   text-transform: uppercase;
   + p {
     font-size: .875em;
+    line-height: 1.25;
   }
 }
 
@@ -109,7 +110,7 @@ blockquote {
 }
 
 figure {
-  margin: 0;
+  margin: 2em 0;
   img {
     width: 100%;
   }
@@ -118,8 +119,11 @@ figure {
 figcaption {
   font-family: "Open Sans", sans-serif;
   font-size: .5em;
-  font-weight: 600;
-  .credit {
-    font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+  article {
+    margin: 3em 3em 4em 3em;
+    max-width: 580px;
   }
 }
