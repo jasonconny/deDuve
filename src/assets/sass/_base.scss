@@ -121,6 +121,51 @@ figcaption {
   font-size: .5em;
 }
 
+.lockup {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em 0;
+  figure {
+    margin: 0;
+  }
+  .pardon-my-french & {
+    &.nude-descending {
+      figure {
+        &:first-of-type {
+          width: calc(43.5% - 1em);
+        }
+        &:last-of-type {
+          width: calc(56.5% - 1em);
+        }
+      }
+    }
+    &.proper-name {
+      figure {
+        &:first-of-type {
+          width: calc(37.5% - 1em);
+        }
+        &:nth-child(2) {
+          width: calc(44% - 2em);
+        }
+        &:last-of-type {
+          width: calc(18.5% - 1em);
+        }
+      }
+    }
+    &.bicycle-wheel {
+      figure {
+        &:first-of-type {
+          width: calc(47.875% - 1em);
+        }
+        &:last-of-type {
+          width: calc(52.125% - 1em);
+        }
+      }
+    }
+  }
+}
+
 @media screen and (max-width: 768px) {
   article {
     margin: 3em 3em 4em 3em;
