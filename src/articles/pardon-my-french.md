@@ -2,6 +2,7 @@
 title: Pardon My French
 subtitle: Thierry de Duve on the invention of art
 date: 2013-10-01
+index: 1
 layout: article.html
 ---
 

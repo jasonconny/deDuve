@@ -9,23 +9,14 @@
 </head>
 <body>
 
-<main>
+<main class="toc">
 
-	{{>nav}}
+	<ul>
+		{{#each articles}}
+		<li><a href="{{ path }}">{{ title }}</a></li>
+		{{/each}}
+	</ul>
 
-	<article class="{{ slug }}">
-
-		{{#if title}}
-			<h1>{{ title }}</h1>
-		{{/if}}
-
-		{{#if subtitle}}
-			<h2>{{ subtitle }}</h2>
-		{{/if}}
-
-		{{{ contents }}}
-
-	</article>
 </main>
 
 

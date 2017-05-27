@@ -2,6 +2,7 @@
 title: Don't Shoot the Messenger
 subtitle: Thierry de Duve on the Duchamp syllogism
 date: 2013-11-01
+index: 2
 layout: article.html
 ---
 
@@ -21,9 +22,7 @@ The problem with this statement is not its implicit critique of the Western ethn
 Indeterminacy was very much part of the Duchamp effect in the '50s—witness John Cage. The '60s was a decade when the name _art_ was up for grabs: Anyone could claim it, everyone would redefine it, artists certainly had no monopoly over it—witness Michel Claura, Seth Siegelaub, Harald Szeemann, or Lucy Lippard. Further, when Enwezor speaks of the "medium of art," he shows that he has not truly grasped the message Duchamp put in the mail. Art is not a medium. Painting, sculpture, music, poetry, cinema are media, but art—art-in-general—is not. When anything can be art, we find ourselves, as Rosalind Krauss would say, in a "post-medium condition."<sup><a>6</a></sup> Finally, what I find most intriguing in Enwezor's quick critique of the Duchamp effect is his claim that the artist decides "what an object of art _is or what it can be_" (emphasis mine). If I did not believe that Enwezor intuitively hit upon an important truth with the equivalence of "is" and "can be," I would not have dissected his statement with such critical scrutiny. I must ask the reader's patience, for we have a long way to go before I can address that truth.<sup><a>7</a></sup>
 
 <aside>
-
-Duchamp was merely the messenger—the whistle-blower—of the news that it is now technically feasible and institutionally legitimate to make art from anything whatsoever.
-
+    Duchamp was merely the messenger—the whistle-blower—of the news that it is now technically feasible and institutionally legitimate to make art from anything whatsoever.
 </aside>
 
 * * *
@@ -53,9 +52,7 @@ An artist may be pardoned for his misinterpretation of another artist's work. Ye
 The original 1917 _Fountain_ is lost; nobody knows what really happened to it. All examples of _Fountain_ presently in museums are replicas and, with two exceptions, were commissioned by the Milanese art dealer Arturo Schwarz. (In 1964, less than a year after Duchamp's Pasadena Art Museum retrospective, Schwarz convinced the artist to have fourteen of his readymades and related works minutely reconstructed in an edition of eight, plus two artist's proofs.<sup><a>17</a></sup>) The two exceptions are the Sidney Janis and the Ulf Linde versions. In 1950, invited by Janis to participate in the dealer's "Challenge and Defy" group show, Duchamp managed to have him find a suitable replacement for _Fountain_. Janis located a urinal of a similar model in a Paris flea market.<sup><a>18</a></sup> He exhibited it twice in his gallery: in the "Challenge and Defy" show, hung on the wall in its usual orientation, and rather low, so that "little boys could use it,"<sup><a>19</a></sup> and then again in the "Dada 1916–1923" show of 1953, where it hung above a door opening, upside down, with a sprig of mistletoe hanging from it. The Janis replica was subsequently displayed in William Seitz's 1961 Museum of Modern Art exhibition "The Art of Assemblage," then in Duchamp's 1963 Pasadena retrospective; it eventually found its way into the Philadelphia Museum of Art, where it complements the Arensberg collection of the artist's work. In Pasadena, it was displayed in a peculiar arrangement: above it hovered _Pliant de voyage_ (Traveler's Folding Item), an oilcloth dustcover for an Underwood typewriter, dated 1916; and above the typewriter cover, there hung a small glass vial Duchamp had bought in a Paris pharmacy in 1919, emptied of the serum it contained, and filled with ambient air, titled _Air de Paris_.<sup><a>20</a></sup> This arrangement, with the urinal underneath, the typewriter cover in the middle, and the vial high above, echoed an identical arrangement at the Galerie Burén in Stockholm a few months earlier, in April and May of 1963\. There, the art critic Ulf Linde provided the urinal and the typewriter cover.<sup><a>21</a></sup> The story is that he found an adequate urinal in the men's room of his favorite restaurant and traded the owner a new one for it.<sup><a>22</a></sup>
 
 <aside>
-
-I don't see that Duchamp was able—or wanted, for that matter—to control the interpretations his work spawned.
-
+    I don't see that Duchamp was able—or wanted, for that matter—to control the interpretations his work spawned.
 </aside>
 
 Now, why did the curators of the Stockholm and the Pasadena shows, Linde and Walter Hopps, respectively, choose to display the urinal, the typewriter cover, and the vial in that particular arrangement? The answer forces us to reach further into the past, to the _Boîte-en-valise_. In 1935, Duchamp began to work on "an album of approximately all the things [he] produced."<sup><a>23</a></sup> Six years later, when the first _Boîtes_ appeared, the announced "album" turned out to be a rectangular box, approximately sixteen by sixteen by four inches, containing sixty-nine items minutely reproducing almost all of Duchamp's works. The deluxe edition was packed in a leather suitcase, hence the appellation _Boîte-en-valise_. Most works were replicated with elaborate means involving collotype printing and pochoir coloring. A system of flaps and sliding pullouts allowed the display of several facsimiles of paintings and works on glass. When opened and unfolded, the central part showed a celluloid reproduction of the _Large Glass_ and, on its left, three miniature replicas of readymades: the urinal below, the typewriter cover at the height of the "horizon line" that separates the "bachelors' domain" in the lower part of the _Glass_ from the "bride's domain" in the upper part, and the vial full of Paris air in the upper area next to the bride. This is the arrangement the Stockholm and Pasadena shows reproduce.<sup><a>24</a></sup> Clearly, Linde and Hopps went out of their way to legitimate the readymades through their esoteric ties to the _Large Glass_, and explicitly referred the spectator to the _Boîte-en-valise_, where some information, however cryptic, could be gathered regarding the origin and history of _Fountain_, _Pliant de voyage_, and _Air de Paris_. Labels were affixed to the cardboard wall of the compartment that housed the miniature replicas of the three readymades. The one next to the mini-urinal stated:
@@ -70,9 +67,7 @@ That label is the first written statement on the part of Duchamp that links him 
 The only _Fountain_ replica to have entered a museum in Duchamp's lifetime is the Linde version, which was donated to Stockholm's Moderna Museet in 1965\. The first Schwarz replica of _Fountain_ to land in a museum was bought by Brydon Smith for the National Gallery of Canada in 1971; the Centre Pompidou in Paris and Tate Modern in London acquired their replicas only in 1986 and 1999, respectively. Schwarz sold one to the National Museum of Modern Art in Kyoto in 1987 and donated one to the Galleria Nazionale d'Arte Moderna in Rome in 1997\. And the Janis version entered the Philadelphia Museum of Art only in 1998.
 
 <aside>
-
-The art world of the '60s seems to have inferred that everybody was—could be, should be, would be—an artist. But from the vantage point of today, it is all too blatantly clear that not everybody has become one.
-
+    The art world of the '60s seems to have inferred that everybody was—could be, should be, would be—an artist. But from the vantage point of today, it is all too blatantly clear that not everybody has become one.
 </aside>
 
 * * *
@@ -102,9 +97,7 @@ Why indeed? Robert Filliou—whose "principle of equivalence" between "well made
 <span class="opening">The society of independent artists</span> was incorporated in New York on December 5, 1916, after a few months of discussion, gathering some twenty artists and at least one art patron, the collector Walter Arensberg. William Glackens was named president and almost everybody else a "director." The core of the group—Glackens, Rockwell Kent, George Bellows, Maurice Prendergast, and his brother Charles—had been associated with the Eight, aka the Ashcan School. The most advanced American artists in the group were John Covert, Morton Schamberg, Man Ray, Joseph Stella, and John Marin. Duchamp was solicited early on, and he was not the only Frenchman to be involved. Among the European expats who had fled the war and taken refuge in New York were Francis Picabia, Jean Crotti, and Albert Gleizes. All three participated in the discussions. Did they have a hand in the following, lifted from the foreword to the catalogue of the society's first exhibition?
 
 <aside>
-
-It is time to move on, time to stop mistaking an angel for a prophet (_angelos_ means "messenger"). And it is time to rewrite art-historical narrative—respecting, not inverting, the logic of the facts.
-
+    It is time to move on, time to stop mistaking an angel for a prophet (_angelos_ means "messenger"). And it is time to rewrite art-historical narrative—respecting, not inverting, the logic of the facts.
 </aside>
 
 > The program of the Society of Independent Artists, which is practically self-explanatory, has been taken over from the Société des Artistes Indépendants of Paris. The latter Society, whose salon is the oldest in France, has done more for the advance of French art than any other institution of its period. A considerable number of the most prominent artists of the present generation and the preceding one established their reputation at its annual exhibitions. It has more members, sells more works and is on a firmer financial basis than any other of the four great salons. The reason for this success is to be found in the principle adopted at its founding in 1884 and never changed: "No jury, no prizes."<sup><a>34</a></sup>

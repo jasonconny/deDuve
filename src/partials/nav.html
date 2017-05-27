@@ -1,0 +1,14 @@
+<nav>
+	<ul>
+		<li><a href="/">I</a></li>
+		{{#each articles}}
+		<li>
+			{{#if active}}
+			<strong>0{{ index }}</strong>
+			{{else}}
+			<a href="/{{ path }}">0{{ index }} {{ path }}  {{ slug}}</a>
+			{{/if}}
+		</li>
+		{{/each}}
+	</ul>
+</nav>
