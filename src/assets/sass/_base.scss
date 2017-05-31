@@ -48,6 +48,7 @@ nav {
       display: inline-block;
       padding: .5em;
       text-decoration: none;
+      width: 100%;
       &:hover,
       &:active {
         background-color: $paleGray;
@@ -79,16 +80,19 @@ h2 {
 }
 
 h3 {
-  border-top: 2px solid $paleGray;
-  font-size: .75em;
-  font-weight: 700;
-  letter-spacing: .5em;
-  margin: 8em 0 1.5em;
-  padding: .5em 0 0;
-  text-transform: uppercase;
-  + p {
-    font-size: .875em;
-    line-height: 1.25;
+  &:last-of-type {
+    border-top: 2px solid $paleGray;
+    font-size: .75em;
+    font-weight: 700;
+    letter-spacing: .5em;
+    margin: 8em 0 1.5em;
+    padding: 1.5em 0 0;
+    text-transform: uppercase;
+    + p {
+      font-size: .875em;
+      line-height: 1.25;
+      margin: 2em 0;
+    }
   }
 }
 
@@ -125,11 +129,15 @@ hr {
   margin: 2.5em 0 0;
 }
 
-li {
-  font-size: .75em;
-  line-height: 1.25;
-  + li {
-    margin: 1em 0 0;
+ol {
+  &:last-of-type {
+    li {
+      font-size: .75em;
+      line-height: 1.25;
+      + li {
+        margin: 1em 0 0;
+      }
+    }
   }
 }
 
