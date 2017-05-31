@@ -221,6 +221,39 @@ figcaption {
   }
 }
 
+.toc {
+  margin: 6em 6em 8em;
+  max-width: 768px;
+  h2 {
+    font-family: "Source Serif Pro", serif;
+    margin: 2em 0 4em;
+    text-align: center;
+    text-transform: none;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    font-family: "Open Sans", sans-serif;
+    font-size: 2em;
+    list-style: none;
+    + li {
+      margin: 1em 0 0;
+    }
+  }
+  a {
+    color: $satansGray;
+    text-decoration: none;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .toc {
+    margin: 6em auto 8em;
+  }
+}
+
 @media screen and (max-width: 768px) {
   article {
     margin: 3em 3em 4em 3em;
