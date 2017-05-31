@@ -48,10 +48,12 @@ nav {
       display: inline-block;
       padding: .5em;
       text-decoration: none;
+      transition: background-color .5s;
       width: 100%;
       &:hover,
       &:active {
         background-color: $paleGray;
+        transition: background-color .5s;
       }
     }
   }
