@@ -11,7 +11,7 @@ layout: article.html
 </div>
 
 <figure>
-    ![Marcel Duchamp, de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise]), 1935-66/1961](/assets/img/02/boite-en-valise.jpg)
+    ![Marcel Duchamp, de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise]), 1935-66/1961](/assets/img/02/boite-en-valise-01.jpg)
     
     <figcaption>
         <strong>Marcel Duchamp, _de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)_(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise], 1935-66/1961,</strong> cardboard valise containing miniature replicas, color reproductions, and photographs of works by Duchamp, closed: 16 x 14 3/4 x 3 1/2".
@@ -85,6 +85,14 @@ An artist may be pardoned for his misinterpretation of another artist's work. Ye
 
 The original 1917 _Fountain_ is lost; nobody knows what really happened to it. All examples of _Fountain_ presently in museums are replicas and, with two exceptions, were commissioned by the Milanese art dealer Arturo Schwarz. (In 1964, less than a year after Duchamp's Pasadena Art Museum retrospective, Schwarz convinced the artist to have fourteen of his readymades and related works minutely reconstructed in an edition of eight, plus two artist's proofs.<sup><a>17</a></sup>) The two exceptions are the Sidney Janis and the Ulf Linde versions. In 1950, invited by Janis to participate in the dealer's "Challenge and Defy" group show, Duchamp managed to have him find a suitable replacement for _Fountain_. Janis located a urinal of a similar model in a Paris flea market.<sup><a>18</a></sup> He exhibited it twice in his gallery: in the "Challenge and Defy" show, hung on the wall in its usual orientation, and rather low, so that "little boys could use it,"<sup><a>19</a></sup> and then again in the "Dada 1916–1923" show of 1953, where it hung above a door opening, upside down, with a sprig of mistletoe hanging from it. The Janis replica was subsequently displayed in William Seitz's 1961 Museum of Modern Art exhibition "The Art of Assemblage," then in Duchamp's 1963 Pasadena retrospective; it eventually found its way into the Philadelphia Museum of Art, where it complements the Arensberg collection of the artist's work. In Pasadena, it was displayed in a peculiar arrangement: above it hovered _Pliant de voyage_ (Traveler's Folding Item), an oilcloth dustcover for an Underwood typewriter, dated 1916; and above the typewriter cover, there hung a small glass vial Duchamp had bought in a Paris pharmacy in 1919, emptied of the serum it contained, and filled with ambient air, titled _Air de Paris_.<sup><a>20</a></sup> This arrangement, with the urinal underneath, the typewriter cover in the middle, and the vial high above, echoed an identical arrangement at the Galerie Burén in Stockholm a few months earlier, in April and May of 1963\. There, the art critic Ulf Linde provided the urinal and the typewriter cover.<sup><a>21</a></sup> The story is that he found an adequate urinal in the men's room of his favorite restaurant and traded the owner a new one for it.<sup><a>22</a></sup>
 
+<figure>
+    ![Marcel Duchamp, de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise]), 1935-66/1941](/assets/img/02/boite-en-valise-02.jpg)
+    
+    <figcaption>
+        <strong>Marcel Duchamp, _de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)_(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise], 1935-66/1941,</strong> leather valise containing miniature replicas, color reproductions, and photographs of works by Duchamp, and one "original" drawing, closed: 16 x 15 x 4".
+    </figcaption>
+</figure>
+
 <aside>
     I don't see that Duchamp was able—or wanted, for that matter—to control the interpretations his work spawned.
 </aside>
@@ -93,8 +101,8 @@ Now, why did the curators of the Stockholm and the Pasadena shows, Linde and Wal
 
 > Fountain  
 > by Richard MUTT  
-> (Ready made; haut. 0<sup>m</sup>60)  
-> New-York, 1917
+> _(Ready made; haut. 0<sup>m</sup>60)  
+> New-York, 1917_
 
 That label is the first written statement on the part of Duchamp that links him directly to "Richard Mutt" while acknowledging Mutt as the author of _Fountain_. It also mentions, for the first time, the place and date of the work. Of course the date, 1917, and the signature, R. MUTT, were readable on both Linde's and Janis's replicas, just as they can be read in Alfred Stieglitz's famous photograph, which is virtually the only proof that such a signed and dated urinal once existed. As for proof that the photograph was actually taken in 1917, there is practically none other than its appearance in the second issue, from May 1917, of _The Blind Man_, the little magazine that Duchamp, his friend Henri-Pierre Roché, and their mutual (girl-)friend Beatrice Wood published. Very few people would have laid eyes on that issue, as the circulation of the magazine did not exceed a few hundred hand-distributed copies. To see Stieglitz's photo of _Fountain_ reappear in print, one had to await the publication of a 1945 issue of _View_ magazine entirely devoted to Duchamp. It included an article by Harriet and Sidney Janis, "Marcel Duchamp: Anti-Artist," which Robert Motherwell reprinted in his 1951 anthology _The Dada Painters and Poets_. Incidentally, Motherwell may have been the first person to have formally acknowledged receipt of Duchamp's message, when he wrote in his entry on the bottle rack: "It is also a subtle solution to an essential dada dilemma, how to express oneself without art _when all means of expression are potentially artistic_."<sup><a>25</a></sup> Motherwell's anthology was a success but could not compete with the popular press. Only when Winthrop Sargeant's article in _Life_ magazine was published in April 1952 did Duchamp's career with the broad public take off, and only then was _Fountain_ launched into orbit, eventually becoming the famous icon we now know.
 
@@ -146,7 +154,7 @@ Facts have the last word in art history. No matter which of my two scenarios—o
 
 The key word in the transatlantic bridge Camfield rightly establishes between Paris and New York is _independence_, and the key words in the trans­atlantic abyss that nevertheless subsists are _ongoing organization_. Reviewing the 1910 exhibition, Robert Henri wrote:
 
-> _This is called an independent exhibition because it is a manifestation of independence in art and of the absolute necessity of such independence. It does not mean that it is an independent organization, but that it is made up of the independent points of view of men who are investigating._<sup><a>37</a></sup>
+> This is called an independent exhibition because it is a manifestation of independence in art and of the absolute necessity of such independence. It does not mean that it is an independent organization, but that it is made up of the independent points of view of men who are investigating.<sup><a>37</a></sup>
 
 For Henri, independence was synonymous with individuality. The American founding members of the 1916 Society of Independent Artists probably understood it similarly. But by modeling their newly incorporated society after the French Indépendants and intending it to be "an ongoing organization," they unwittingly imported an institutional model foreign to their tradition.
 

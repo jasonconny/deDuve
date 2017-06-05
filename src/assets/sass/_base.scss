@@ -158,8 +158,16 @@ blockquote {
     padding: .5em 2em 0.5em 4em;
     width: 66.666666%;
   }
+  .dont-shoot-the-messenger & {
+    &:nth-of-type(5) {
+      text-align: center;
+    }
+  }
   cite {
     display: block;
+    font-style: normal;
+  }
+  em {
     font-style: normal;
   }
 }
