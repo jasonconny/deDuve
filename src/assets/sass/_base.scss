@@ -219,6 +219,18 @@ figcaption {
       }
     }
   }
+  .dont-shoot-the-messenger & {
+    &.galleries {
+      figure {
+        &:first-of-type {
+          width: calc(48% - 1em);
+        }
+        &:last-of-type {
+          width: calc(52% - 1em);
+        }
+      }
+    }
+  }
 }
 
 .toc {

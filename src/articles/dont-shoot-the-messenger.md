@@ -10,12 +10,28 @@ layout: article.html
     <p>**In the second in a series** of new essays on the avant-garde for Artforum, historian and philosopher **Thierry de Duve** picks up where he left off last month—contemplating the reception of Marcel Duchamp's iconic readymade Fountain upon its first appearance, in 1917, and then in a 1960s culture steeped in utopic ambition. Looking anew at long held myths of modernism, de Duve here examines the artistic and institutional legacy of the most notorious artwork of our time, which was rejected by the Society of Independent Artists, only to have a monumental effect—and a nearly equally consequential misprision—in the twentieth century.</p>
 </div>
 
+<figure>
+    ![Marcel Duchamp, de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise]), 1935-66/1961](/assets/img/02/boite-en-valise.jpg)
+    
+    <figcaption>
+        <strong>Marcel Duchamp, _de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)_(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise], 1935-66/1961,</strong> cardboard valise containing miniature replicas, color reproductions, and photographs of works by Duchamp, closed: 16 x 14 3/4 x 3 1/2".
+    </figcaption>
+</figure>
+
 > The danger remains that he'll get out of the valise we put him in. So long as he remains locked up—
 <cite>—John Cage, "26 Statements Re Duchamp"</cite>
 
 <span class="opening">In 1917, Marcel Duchamp</span> put a message in the mail stating that anything could be art. The message, in the guise of a urinal, did not arrive at its destination until the 1960s, whereupon the whole Western art world reconfigured itself as "post-Duchamp." Thirty years later, the message's arrival was still making ripples: In 1994, the editors of the journal _October_ devoted an entire issue to them; they titled it "The Duchamp Effect."<sup><a>1</a></sup> Another nine years down the road, and said effect began to draw serious criticism from the field of postcolonial studies. Thus Okwui Enwezor:
 
 > The Duchamp effect was the most traditional view, because what it purports to do is delineate the supremacy of the artist: the artist as not only a form giver but also a name giver. It is the artist who decides what an object of art is or what it can be, rather than the decision being a result of progressive, formal transformation of the medium of art. For Duchamp, it is not tradition, but the artist who not only decides what the work of art is but also controls its narrative of interpretation.<sup><a>2</a></sup>
+
+<figure>
+    ![John Cage, Reunion, 1968.](/assets/img/02/john-cage-reunion.jpg)
+    
+    <figcaption>
+        <strong>John Cage, _Reunion_, 1968.</strong> John Cage in collaboration with Marcel Duchamp, Teeny Duchamp, David Behrman, Lowell Cross, Gordon Mumma, and David Tudor. Performance view, Ryerson Theatre, Toronto, March 5, 1968. Marchel Duchamp, John Cage.
+    <figcaption>
+</figure>
 
 The problem with this statement is not its implicit critique of the Western ethnocentrism of _October_. That point, addressed elsewhere in the article, is well taken.<sup><a>3</a></sup> The problem lies with the many assumptions Enwezor makes on the editors' behalf regarding the "Duchamp effect." They were careful not to title their special issue "Duchamp's Effect." Enwezor misses the nuance: He lends the messenger authorship of the message and then infers the "supremacy of the artist," a very common error and the symptom of a fundamental misreading. I don't see that Duchamp was able—or wanted, for that matter—to control the interpretations his work has spawned. What twentieth-century artist's work has generated more divergent readings than Duchamp's, with "narratives" ranging from incest to courtly love to alchemy to the Kabbalah to Mallarméan poetry to Lacanian punning? Regarding the artist as "name giver," Enwezor is closer to Duchamp's "pictorial nominalism," yet he makes the same mistake of lending him too much. Duchamp surely saw to it that the name _art_ be given to his readymades, but he never—I insist, never—gave them that name himself;<sup><a>4</a></sup> a great deal of the effectiveness of the Duchamp effect is due to his withdrawal from traditional artistic agency and to his redefinition of authorship on novel, much less deterministic grounds.<sup><a>5</a></sup>
 
@@ -30,6 +46,24 @@ Indeterminacy was very much part of the Duchamp effect in the '50s—witness Joh
 <span class="opening">Even if the duchamp effect</span> means something quite different from Duchamp's effect, _effect_ is still similar to _influence_. Both concepts imply definitive causal links that carry an excessive weight of determination. Acknowledging receipt of a message, however, is a very different process. The mailman who asks you to acknowledge receipt of a registered letter warns you that the acknowledgment will be sent back to the sender—in this case, to a sender who has been mythically construed to perform an acknowledgment in return.<sup><a>8</a></sup> In this back and forth specularity may lie another reason for the effectiveness of the Duchamp effect: It plays itself out in an echo chamber. In that sense, the more magazines, critics, historians, theorists, and journalists join in with _October_ in analyzing and deconstructing the Duchamp effect, the more they amplify it and distract attention from the content of the message—i.e., from the news that it is now technically feasible and institutionally legitimate to make art from anything whatsoever.
 
 Duchamp was merely the messenger of that news, the whistle-blower. He did not own the news channels: Many people reached a similar understanding without his help. Guillaume Apollinaire was not waiting for _Fountain_ when he wrote, in _The Cubist Painters_ in 1913: "You may paint with whatever material you please, with pipes, postage stamps, postcards or playing cards, candelabra, pieces of oil cloth, collars, painted paper, newspapers."<sup><a>9</a></sup> Although William Carlos Williams was a member of the Arensberg circle and, as such, knew Duchamp by 1916, Duchamp did not whisper the following into his ear: "I'll write whatever I damn please, whenever I damn please and as I damn please and it'll be good if the authentic spirit of change is on it."<sup><a>10</a></sup> And to take an example from the '70s, when nobody in avant-garde circles, least of all the Situationists, would have dared admit ignorance of Duchamp, I'm sure it was Guy Debord's pride, not Duchamp's "influence," that led him to pronounce: "Yes, I flatter myself to make a film from anything whatsoever, and I find amusing the complaints of those who let their whole life become whatever."<sup><a>11</a></sup>
+
+<div class="lockup galleries">
+    <figure>
+        ![View of "Marcel Duchamp: by or of Marchel Duchamp of Rrose Sélavy." 1963.](/assets/img/02/by-or-of-marcel-duchamp-or-rrose-selavy-02.jpg)
+        
+        <figcaption>
+            <strong>View of "Marcel Duchamp: by or of Marchel Duchamp of Rrose Sélavy." 1963,</strong> Pasadena Art Museum, Los Angeles. From left: _Roue de bicyclette_ (Bicycle Wheel), 1913/1963; _Pharmacie_ (Pharmacy), 1914; _In Advance of a Broken Arm_, 1915/1963; _Bottlerack_, 1914/1963. Photo: Frank J. Thomas Archives.
+        </figcaption>
+    </figure>
+
+    <figure>
+        ![View of "Dada, 1916-1923," 1953](/assets/img/02/dada-sidney-janis.jpg)
+        
+        <figcaption>
+            <strong>View of "Dada, 1916-1923," 1953</strong>, Sidney Janis Gallery, New York. Center, over door: Marcel Duchamp, _Fountain_, 1917/1950. Photo: Oliver Baker.
+        </figcaption>
+    <figure>
+</div>
 
 Add to these few examples Robert Frank's alleged statement that today one is free to photograph anything, and the one difference between these various realizations that anything can be art and the acknowledgment of receipt of Duchamp's message will leap to the eye. Apollinaire speaks of painting, Williams of literature, Debord of film, and Frank of photography. They allow infinite expansion of artistic means—but within the confines of a given medium. Compare their declarations with this one, by Allan Kaprow: "Objects of every sort are materials for the new art: paint, chairs, food, electric and neon lights, smoke, water, old socks, a dog, movies, a thousand other things that will be discovered by the present generation of artists."<sup>12</sup> There is no mention of any medium, only of art in general. The interesting thing is that Kaprow makes this generalization a legacy of Jackson Pollock. This shows that one can consider oneself heir to a painter while echoing news received from a very different messenger.
 
