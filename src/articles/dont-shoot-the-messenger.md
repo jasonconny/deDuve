@@ -14,7 +14,7 @@ layout: article.html
     ![Marcel Duchamp, de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise]), 1935-66/1961](/assets/img/02/boite-en-valise-01.jpg)
     
     <figcaption>
-        <strong>Marcel Duchamp, _de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)_(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise], 1935-66/1961,</strong> cardboard valise containing miniature replicas, color reproductions, and photographs of works by Duchamp, closed: 16 x 14 3/4 x 3 1/2".
+        **Marcel Duchamp, _de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)_(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise], 1935-66/1961,** cardboard valise containing miniature replicas, color reproductions, and photographs of works by Duchamp, closed: 16 x 14 3/4 x 3 1/2".
     </figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ layout: article.html
     ![John Cage, Reunion, 1968.](/assets/img/02/john-cage-reunion.jpg)
     
     <figcaption>
-        <strong>John Cage, _Reunion_, 1968.</strong> John Cage in collaboration with Marcel Duchamp, Teeny Duchamp, David Behrman, Lowell Cross, Gordon Mumma, and David Tudor. Performance view, Ryerson Theatre, Toronto, March 5, 1968. Marchel Duchamp, John Cage.
+        **John Cage, _Reunion_, 1968.** John Cage in collaboration with Marcel Duchamp, Teeny Duchamp, David Behrman, Lowell Cross, Gordon Mumma, and David Tudor. Performance view, Ryerson Theatre, Toronto, March 5, 1968. Marchel Duchamp, John Cage.
     <figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Duchamp was merely the messenger of that news, the whistle-blower. He did not ow
         ![View of "Marcel Duchamp: by or of Marchel Duchamp of Rrose Sélavy." 1963.](/assets/img/02/by-or-of-marcel-duchamp-or-rrose-selavy-02.jpg)
         
         <figcaption>
-            <strong>View of "Marcel Duchamp: by or of Marchel Duchamp of Rrose Sélavy." 1963,</strong> Pasadena Art Museum, Los Angeles. From left: _Roue de bicyclette_ (Bicycle Wheel), 1913/1963; _Pharmacie_ (Pharmacy), 1914; _In Advance of a Broken Arm_, 1915/1963; _Bottlerack_, 1914/1963. Photo: Frank J. Thomas Archives.
+            **View of "Marcel Duchamp: by or of Marchel Duchamp of Rrose Sélavy." 1963,** Pasadena Art Museum, Los Angeles. From left: _Roue de bicyclette_ (Bicycle Wheel), 1913/1963; _Pharmacie_ (Pharmacy), 1914; _In Advance of a Broken Arm_, 1915/1963; _Bottlerack_, 1914/1963. Photo: Frank J. Thomas Archives.
         </figcaption>
     </figure>
 
@@ -60,7 +60,7 @@ Duchamp was merely the messenger of that news, the whistle-blower. He did not ow
         ![View of "Dada, 1916-1923," 1953](/assets/img/02/dada-sidney-janis.jpg)
         
         <figcaption>
-            <strong>View of "Dada, 1916-1923," 1953</strong>, Sidney Janis Gallery, New York. Center, over door: Marcel Duchamp, _Fountain_, 1917/1950. Photo: Oliver Baker.
+            **View of "Dada, 1916-1923," 1953**, Sidney Janis Gallery, New York. Center, over door: Marcel Duchamp, _Fountain_, 1917/1950. Photo: Oliver Baker.
         </figcaption>
     <figure>
 </div>
@@ -89,7 +89,7 @@ The original 1917 _Fountain_ is lost; nobody knows what really happened to it. A
     ![Marcel Duchamp, de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise]), 1935-66/1941](/assets/img/02/boite-en-valise-02.jpg)
     
     <figcaption>
-        <strong>Marcel Duchamp, _de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)_(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise], 1935-66/1941,</strong> leather valise containing miniature replicas, color reproductions, and photographs of works by Duchamp, and one "original" drawing, closed: 16 x 15 x 4".
+        **Marcel Duchamp, _de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise)_(by or of Marcel Duchamp or Rrose Sélavy [Box in a Valise], 1935-66/1941,** leather valise containing miniature replicas, color reproductions, and photographs of works by Duchamp, and one "original" drawing, closed: 16 x 15 x 4".
     </figcaption>
 </figure>
 
@@ -98,6 +98,14 @@ The original 1917 _Fountain_ is lost; nobody knows what really happened to it. A
 </aside>
 
 Now, why did the curators of the Stockholm and the Pasadena shows, Linde and Walter Hopps, respectively, choose to display the urinal, the typewriter cover, and the vial in that particular arrangement? The answer forces us to reach further into the past, to the _Boîte-en-valise_. In 1935, Duchamp began to work on "an album of approximately all the things [he] produced."<sup><a>23</a></sup> Six years later, when the first _Boîtes_ appeared, the announced "album" turned out to be a rectangular box, approximately sixteen by sixteen by four inches, containing sixty-nine items minutely reproducing almost all of Duchamp's works. The deluxe edition was packed in a leather suitcase, hence the appellation _Boîte-en-valise_. Most works were replicated with elaborate means involving collotype printing and pochoir coloring. A system of flaps and sliding pullouts allowed the display of several facsimiles of paintings and works on glass. When opened and unfolded, the central part showed a celluloid reproduction of the _Large Glass_ and, on its left, three miniature replicas of readymades: the urinal below, the typewriter cover at the height of the "horizon line" that separates the "bachelors' domain" in the lower part of the _Glass_ from the "bride's domain" in the upper part, and the vial full of Paris air in the upper area next to the bride. This is the arrangement the Stockholm and Pasadena shows reproduce.<sup><a>24</a></sup> Clearly, Linde and Hopps went out of their way to legitimate the readymades through their esoteric ties to the _Large Glass_, and explicitly referred the spectator to the _Boîte-en-valise_, where some information, however cryptic, could be gathered regarding the origin and history of _Fountain_, _Pliant de voyage_, and _Air de Paris_. Labels were affixed to the cardboard wall of the compartment that housed the miniature replicas of the three readymades. The one next to the mini-urinal stated:
+
+<figure>
+    ![Spread from The Blind Man no. 2 (May, 1917)](/assets/img/02/blind-man-no2.jpg)
+    
+    <figcaption>
+        **Spread from _The Blind Man no. 2_ (May, 1917).** Alfred Stieglitz's photograph of Marcel Duchamp's _Fountain_, 1917.
+    </figcaption>
+</figure>
 
 > Fountain  
 > by Richard MUTT  
@@ -120,6 +128,14 @@ All readers of _Artforum_ know that in 1917, Duchamp, hiding behind the pseudony
 
 As we have seen, Duchamp hid his authorship of _Fountain_ until he released the _Boîtes-en-valise_ in the early '40s. Those are important facts. What is not a fact is my contention that the purpose of _The Blind Man_'s photo and editorial had never been to cause a scandal but rather to put _Fountain_ on the record for future art history. This is what I mean when I say that Duchamp put a message in the mail. He lived long enough to see it delivered. Whether he had foreseen the ripples its delivery would make or was genuinely surprised remains a mystery none of his late, carefully rehearsed interviews—or his deadpan appearance in one of Warhol's 1966 Screen Tests—has laid to rest.
 
+<figure>
+    ![Andy Warhol, Screen Test: Marcel Duchamp, 1966](/assets/img/02/marcel-duchamp-screen-test.jpg)
+    
+    <figcaption>
+        **Andy Warhol, _Screen Test: Marcel Duchamp_, 1966,** 16mm, black and white, silent, 4 minutes 4 seconds.
+    </figcaption>
+</figure>
+
 The most relevant fact of the R. Mutt affair for my purpose is the institutional context in which _Fountain_ appeared and then immediately disappeared. I have spoken thus far of an exhibition without being more specific. I am actually referring to the first exhibition of the Society of Independent Artists, Inc., which opened on April 10, 1917, at the Grand Central Palace in New York. The initial announcement released by the society stated:
 
 > There are no requirements for admission to the Society save the acceptance of its principles and the payment of the initiation fee of one dollar and the annual dues of five dollars. All exhibitors are thus members and all have a vote for the directors and on the decisions made by the Society at its annual meetings.<sup><a>31</a></sup>
@@ -132,21 +148,57 @@ Beuys's second mistake now jumps to the fore. After (wrongly) crediting Duchamp 
 
 But clearly, the _truth_ of Duchamp's message goes the other way around: When anybody is institutionally allowed to be an artist, it is about time to show that anything can be art, even a urinal, and to bet that it will land in the museum someday. Beuys was a powerful utopian thinker who entertained a romantic belief in universal creativity and wanted art to change the world. Duchamp was a cynic in Diogenes's sense, the revealer of an unwanted truth. Or of a truth too eagerly desired? Unwanted by the Ashcan School alumni who formed the bulk of the Independents' founders; desired by the baby boomers of the '60s, who sought liberation from all constraints in art and life alike. I think the pervasive utopianism of the '60s explains why so many people misread Duchamp's message to the point of inverting its logic altogether. Beuys was far from alone in his reversed and somewhat disingenuous reading. It is hard to decide whether Jack Burnham was disingenuous or truly naive when he wrote: "Obviously it is no longer important who is or is not a good artist; the only sensible question is—as is already grasped by some young people—why isn't everybody an artist?"<sup><a>33</a></sup>
 
+<figure class="lockup catalogue">
+    ![Two pages from the Catalogue of the First Annual Exhibition of the Society of Independent Artists](/assets/img/02/catalogue-01.jpg)
+
+    ![Two pages from the Catalogue of the First Annual Exhibition of the Society of Independent Artists](/assets/img/02/catalogue-02.jpg)
+
+    <figcaption>
+        **Two pages from the _Catalogue of the First Annual Exhibition of the Society of Independent Artists_** (William Edwin Rudge, 1917).
+    </figcaption>
+</figure>
+
 Why indeed? Robert Filliou—whose "principle of equivalence" between "well made," "badly made," and "not made" (leaving out the fourth possibility, "ready made") represents one of the wittiest acknowledgments of receipt of Duchamp's message—was definitely enthusiastic, even though humor saves him from being a true believer: "_Oui, oui, voilà, oui! Tout le monde sera un artiste_" (Yes, yes, you see, yes! Everybody will be an artist in the future). As if taking their cue from Ben's 1962 realization that "since Duchamp one is allowed to put anything into this [art] box," a number of major players in the art world of the '60s seem to have inferred that everybody was—could be, should be, would be—an artist. From the vantage point of our "contemporaneity," where it is all too blatantly clear that not everybody has become an artist, not much remains of Filliou's enthusiasm, save sepia-tinted nostalgia for the '60s. It is time to move on, time to conceive of criticality in nonutopian terms, time to stop mistaking an angel for a prophet (_angelos_ means "messenger"). And it is time to rewrite the art-historical narrative—respecting, not inverting, the logic of the facts.
+
+<figure>
+    ![View of "First Annual Exhibition of the Society of Independent Artists", 1917](/assets/img/02/grand-central-palace.jpg)
+    
+    <figcaption>
+        **View of "First Annual Exhibition of the Society of Independent Artists", 1917.** Grand Palace Palace, New York. Photo: Arensberg Archives/Philadelphia Museum of Art Archives.
+    </figcaption>
+</figure>
 
 * * *
 
 <span class="opening">The society of independent artists</span> was incorporated in New York on December 5, 1916, after a few months of discussion, gathering some twenty artists and at least one art patron, the collector Walter Arensberg. William Glackens was named president and almost everybody else a "director." The core of the group—Glackens, Rockwell Kent, George Bellows, Maurice Prendergast, and his brother Charles—had been associated with the Eight, aka the Ashcan School. The most advanced American artists in the group were John Covert, Morton Schamberg, Man Ray, Joseph Stella, and John Marin. Duchamp was solicited early on, and he was not the only Frenchman to be involved. Among the European expats who had fled the war and taken refuge in New York were Francis Picabia, Jean Crotti, and Albert Gleizes. All three participated in the discussions. Did they have a hand in the following, lifted from the foreword to the catalogue of the society's first exhibition?
 
-<aside>
-    It is time to move on, time to stop mistaking an angel for a prophet (_angelos_ means "messenger"). And it is time to rewrite art-historical narrative—respecting, not inverting, the logic of the facts.
-</aside>
-
 > The program of the Society of Independent Artists, which is practically self-explanatory, has been taken over from the Société des Artistes Indépendants of Paris. The latter Society, whose salon is the oldest in France, has done more for the advance of French art than any other institution of its period. A considerable number of the most prominent artists of the present generation and the preceding one established their reputation at its annual exhibitions. It has more members, sells more works and is on a firmer financial basis than any other of the four great salons. The reason for this success is to be found in the principle adopted at its founding in 1884 and never changed: "No jury, no prizes."<sup><a>34</a></sup>
 
 In the French of the original Société: _Ni jury ni récompense_. It is unclear who proposed the name "Independents" and who suggested modeling the society's bylaws on those of the French Société des Artistes Indépendants. The most likely candidates are Duchamp and Gleizes, for obvious reasons: They were both French and both had experience with the Paris Indépendants. But—and the cruel irony of the whole R. Mutt affair might very well hinge on this—at the 1912 Salon des Indépendants, they had found themselves on opposite sides. Gleizes and his fellow Cubist Jean Metzinger had just published a very dogmatic treatise/manifesto titled _Du Cubisme_ and, together with Henri Le Fauconnier and Duchamp's brothers, Jacques Villon and Raymond Duchamp-Villon, they formed the hanging committee of the Cubist room. In compliance with the motto _Ni jury ni récompense_, the committee was supposed to confine itself to installation decisions. Yet when the young Duchamp arrived with a new painting titled _Nude Descending a Staircase (No. 2)_, Gleizes and Metzinger asked him to remove his painting from the show. Duchamp's brothers tried a mediation by asking him to change the title, but the guardians of orthodox Cubism prevailed and Duchamp withdrew the painting, mortified—so mortified that shortly thereafter he left Puteaux, where he had been living near his brothers, and a few months later took exile in Munich, where he would remain until the fall. He would never forget and never forgive, even though the _Nude_ was rehabilitated at the Salon de la Section d'Or in October 1912 and enjoyed a tremendous succès de scandale at the Armory Show in February 1913.
 
+<aside>
+    It is time to move on, time to stop mistaking an angel for a prophet (_angelos_ means "messenger"). And it is time to rewrite art-historical narrative—respecting, not inverting, the logic of the facts.
+</aside>
+
 Here we must leave facts behind and enter the realm of speculation.<sup><a>35</a></sup> I can think of two scenarios. Either Duchamp brought up the Paris Indépendants in the founders' meetings as a possible model for their new society, and gave them the arguments listed in the foreword to the catalogue; or Gleizes did, with Duchamp watching from the sidelines. I like the latter scenario even better than the first. Please reread the excerpt I quoted and notice its bombastic rhetoric, its accumulation of superlatives, its rampant nationalism, and its appeal to crass commercialism. Only a dead-serious ideologue or a supreme ironist could have crafted such a piece of prose. Either way, it is the supreme ironist who saw to it that it got printed—or so I am convinced. The presence of his nemesis at the discussion may have spurred Duchamp's _talionism_ (his word for revenge promoted to the rank of artistic "ism"), and too bad if it was taken at the expense of the innocent and unsuspecting American art community. Gleizes would soon be the true target of _Fountain_, and with Gleizes, the academization of the Paris Indépendants.
+
+<div class="lockup duchamp-villon-armory-show">
+    <figure>
+        ![Marcel Duchamp, Jacques Villon, Raymond Duchamp-Villon, and Villon's dog Pipa in the garden of Villon's studio, Puteaux, France, ca. 1913](/assets/img/02/duchamp-villon.jpg)
+        
+        <figcaption>
+            **Marcel Duchamp, Jacques Villon, Raymond Duchamp-Villon, and Villon's dog Pipa in the garden of Villon's studio, Puteaux, France, ca. 1913.**
+        </figcaptions>
+    </figure>
+
+    <figure>
+        ![View of "International Exhibition of Modern Art" (The Armory Show), 1913](/assets/img/02/armory-show.jpg)
+        
+        <figcaption>
+            **View of "International Exhibition of Modern Art" (The Armory Show), 1913.** 69th Regiment Armory, New York.
+        </figcaptions>
+    </figure>
+</div>
 
 Facts have the last word in art history. No matter which of my two scenarios—or a third one—proves to be right, the fact remains that the R. Mutt affair took place in a precise institutional context with a precise transatlantic history. As Camfield has noted:
 
@@ -157,6 +209,24 @@ The key word in the transatlantic bridge Camfield rightly establishes between Pa
 > This is called an independent exhibition because it is a manifestation of independence in art and of the absolute necessity of such independence. It does not mean that it is an independent organization, but that it is made up of the independent points of view of men who are investigating.<sup><a>37</a></sup>
 
 For Henri, independence was synonymous with individuality. The American founding members of the 1916 Society of Independent Artists probably understood it similarly. But by modeling their newly incorporated society after the French Indépendants and intending it to be "an ongoing organization," they unwittingly imported an institutional model foreign to their tradition.
+
+<div class="lockup brillo-das-schweigen">
+    <figure>
+        ![Andy Warhol, Brillo Soap Pads Box, 1964](/assets/img/02/brillo.jpg)
+        
+        <figcaption>
+            **Andy Warhol, _Brillo Soap Pads Box_, 1964,** synthetic polymwe paint and screen print ink on wood, overall 17 x 17 x 14".
+        </figcaptions>
+    </figure>
+
+    <figure>
+        ![Joseph Beuys, Das Schweigen von Marcel Duchamp wird überwertet (The Silence of Marcel Duchamp Is Overrated), ca. 1973](/assets/img/02/das-schweigen.jpg)
+        
+        <figcaption>
+            **Joseph Beuys, _Das Schweigen von Marcel Duchamp wird überwertet_ (The Silence of Marcel Duchamp Is Overrated), ca. 1973,** oil and silkscreen on PVC, 18 1/8 x 18 1/8".
+        </figcaptions>
+    </figure>
+</div>
 
 The transplant did not take. The Society of Inde­pendent Artists contributed nothing to the history of avant-garde art in the US. Its only memorable salon is the first one, and then only on account of the one item that was not exhibited! But the fact that the R. Mutt affair took place in that particular institutional context is very much part of the message Duchamp put in the mail in 1917 with _Fountain_. On the face of it, the message stated: Anything and everything can now be art. "Now" refers to 1917, not 1964, the year of Schwarz's replicas, Beuys's _The Silence of Marcel Duchamp Is Overrated_, Warhol's Brillo Boxes, and other acknowledgments of receipt of the message. On the whole, the art world of the '60s succumbed to the Duchamp syllogism and mistook a condition for a consequence. They read, "If B, then A," where the messenger had written, "If A, then B." Our inquiry allows us to rephrase the message, putting what comes first first: Anyone and everyone can now be an artist; consequently, anything and everything can now be art. Does "now" still refer to 1917? If we focus on the consequence, yes. But if we focus on the condition, "now" actually refers to 1884, the year the Société des Artistes Indépendants was founded in Paris by a circle of artists around Georges Seurat and Paul Signac. "Anything can be art," the first layer of meaning in Duchamp's message, is a red herring. "Anyone can be an artist," the second layer, gets us closer to the core of the matter. But there are more layers waiting to be peeled away, and to get to the next one, we might as well ask the question several critics posed at the 1884 Salon des Indépendants: Why did those artists call themselves _Indépendants_? Independent of whom, of what?
 

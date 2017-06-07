@@ -182,6 +182,7 @@ figure {
 figcaption {
   font-family: "Open Sans", sans-serif;
   font-size: .5em;
+  margin: .5em 0 0;
 }
 
 .lockup {
@@ -235,6 +236,36 @@ figcaption {
         }
         &:last-of-type {
           width: calc(52% - 1em);
+        }
+      }
+    }
+    &.catalogue {
+      flex-wrap: wrap;
+      img {
+        width: calc(50% - 1em);
+      }
+      figcaption {
+        margin: 1em 0 0;
+        width: 100%;
+      }
+    }
+    &.duchamp-villon-armory-show {
+      figure {
+        &:first-of-type {
+          width: calc(51.25% - 1em);
+        }
+        &:last-of-type {
+          width: calc(48.75% - 1em);
+        }
+      }
+    }
+    &.brillo-das-schweigen {
+      figure {
+        &:first-of-type {
+          width: calc(51% - 1em);
+        }
+        &:last-of-type {
+          width: calc(49% - 1em);
         }
       }
     }

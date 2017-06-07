@@ -16,7 +16,7 @@ layout: article.html
     ![Eve Babbitz and Marcel Duchamp playing chess at "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963](/assets/img/01/duchamp-babbitz-chess.jpg)
     
     <figcaption>
-        <strong>Eve Babbitz and Marcel Duchamp playing chess at "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963.</strong> Photo: Julian Wasser.
+        **Eve Babbitz and Marcel Duchamp playing chess at "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963.** Photo: Julian Wasser.
     </figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ layout: article.html
     ![Ben (Benjamin Vautier), Boîte noire (Black Box), 1962](/assets/img/01/black-box.jpg)
 
     <figcaption>
-        <strong>Ben (Benjamin Vautier), <em>Boîte noire</em> (Black Box), 1962,</strong> wood, acrylic paint, dimensions unknown.
+        **Ben (Benjamin Vautier), <em>Boîte noire</em> (Black Box), 1962,** wood, acrylic paint, dimensions unknown.
     </figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ From our contemporary vantage point, more than a decade into the twenty-first ce
         ![Marcel Duchamp, Nude Descendig a Staircase (No. 2), 1912](/assets/img/01/nude-descending-a-staircase.jpg)
         
         <figcaption>
-            <strong>Marcel Duchamp, <em>Nude Descendig a Staircase (No. 2)</em>, 1912</strong> oil on canvase, 57 1/2 x 35 1/4".
+            **Marcel Duchamp, <em>Nude Descendig a Staircase (No. 2)</em>, 1912** oil on canvase, 57 1/2 x 35 1/4".
         </figcaption>
     </figure>
     
@@ -72,7 +72,7 @@ From our contemporary vantage point, more than a decade into the twenty-first ce
         ![Multiple-exposure photograph of Marcel Duchamp, 1952](/assets/img/01/multiple-exposure.jpg)
     
         <figcaption>
-            <strong>Multiple-exposure photograph of Marcel Duchamp, 1952.</strong> Photo: Eliot Elisofon/Time &amp; Life Pictures/Getty Images.
+            **Multiple-exposure photograph of Marcel Duchamp, 1952.** Photo: Eliot Elisofon/Time &amp; Life Pictures/Getty Images.
         </figcaption>
     </figure>
 </div>
@@ -83,7 +83,7 @@ The latter's own practice of signing found objects makes it clear that "since Du
     ![Marcel Duchamp, Fountain, 1917/1964](/assets/img/01/fountain.jpg)
     
     <figcaption>
-        <strong>Marcel Duchamp, <em>Fountain</em>, 1917/1964,</strong> glazed ceramic, paint, 15 x 19 1/4 x 24 5/8".
+        **Marcel Duchamp, <em>Fountain</em>, 1917/1964,** glazed ceramic, paint, 15 x 19 1/4 x 24 5/8".
     </figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ The latter's own practice of signing found objects makes it clear that "since Du
     ![Ben (Benjamin Vautier), Moi Ben Je Signe (Me Ben I Sign), 1975](/assets/img/01/moi-ben-je-signe.jpg)
 
     <figcaption>
-        <strong>Ben (Benjamin Vautier), <em>Moi Ben Je Signe</em> (Me Ben I Sign), 1975,</strong> cardboard, paper, 3 1/2 x 4 5/8 x approx. 1/2".
+        **Ben (Benjamin Vautier), <em>Moi Ben Je Signe</em> (Me Ben I Sign), 1975,** cardboard, paper, 3 1/2 x 4 5/8 x approx. 1/2".
     </figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ The year 1962 is as good a symbolic date to start from as any. It was a prolific
         ![Ben (Benjamin Vautier), L'Art est une question de nom propre (Art is a Matter of Proper Names), 1974](/assets/img/01/lart-est-une-question-de-nom-propre.jpg)
         
         <figcaption>
-            <strong>Ben (Benjamin Vautier), <em>L'Art est une question de nom propre</em> (Art is a Matter of Proper Names), 1974,</strong> oil on canvas, 45 5/8 x 35".
+            **Ben (Benjamin Vautier), <em>L'Art est une question de nom propre</em> (Art is a Matter of Proper Names), 1974,** oil on canvas, 45 5/8 x 35".
         </figcaption>
     </figure>
     
@@ -130,7 +130,7 @@ The year 1962 is as good a symbolic date to start from as any. It was a prolific
         ![Ben (Benjamin Vautier), Le Magasin de Ben (The Ben Store) (detail) 1958-73](/assets/img/01/le-magasin.jpg)
     
         <figcaption>
-            <strong>Ben (Benjamin Vautier), <em>Le Magasin de Ben</em> (The Ben Store) (detail) 1958-73,</strong> mixed-media, 11' 5 3/4" x 16' 4 7/8" x 11' 5 3/4".
+            **Ben (Benjamin Vautier), <em>Le Magasin de Ben</em> (The Ben Store) (detail) 1958-73,** mixed-media, 11' 5 3/4" x 16' 4 7/8" x 11' 5 3/4".
         </figcaption>
     </figure>
     
@@ -138,7 +138,7 @@ The year 1962 is as good a symbolic date to start from as any. It was a prolific
         ![Arman, Bebida loca (Crazy Drink), 1960](/assets/img/01/bebida-loca.jpg)
     
         <figcaption>
-            <strong>Arman, <em>Bebida loca</em> (Crazy Drink), 1960,</strong> wood, plexiglass, soda-bottle caps, 31 1/2 x 11 3/4 x 2 1/2".
+            **Arman, <em>Bebida loca</em> (Crazy Drink), 1960,** wood, plexiglass, soda-bottle caps, 31 1/2 x 11 3/4 x 2 1/2".
         </figcaption>
     </figure>
 </div>
@@ -153,7 +153,7 @@ This is the very stuff of mythmaking. It is not Warhol acknowledging Duchamp's t
     ![Andy Warhol, Billy Al Bengston and Dennis Hopper at the opening reception of "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963](/assets/img/01/andy-billy-dennis.jpg)
 
     <figcaption>
-        <strong>Andy Warhol, Billy Al Bengston and Dennis Hopper at the opening reception of "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963.</strong> Photo: Julian Wasser.
+        **Andy Warhol, Billy Al Bengston and Dennis Hopper at the opening reception of "By or of Marcel Duchamp or Rrose Sélavy," Pasadena Art Museum, Pasadena, CA, 1963.** Photo: Julian Wasser.
     </figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ Curated by the ever-alert Walter Hopps, "By or of Marcel Duchamp or Rrose Sélav
         ![Marcel Duchamp, Roue de bicyclette (Bicycle Wheel), 1913/1964](/assets/img/01/roue-de-bicyclette.jpg)
     
         <figcaption>
-            <strong>Marcel Duchamp, <em>Roue de bicyclette</em> (Bicycle Wheel), 1913/1964,</strong> metal, painted-wood, 49 3/4 x 12 3/8 x 25".
+            **Marcel Duchamp, <em>Roue de bicyclette</em> (Bicycle Wheel), 1913/1964,** metal, painted-wood, 49 3/4 x 12 3/8 x 25".
         </figcaption>
     </figure>
     
@@ -174,7 +174,7 @@ Curated by the ever-alert Walter Hopps, "By or of Marcel Duchamp or Rrose Sélav
         ![Piero Manzoni signing a model during the making of a short film for Filmfiornale SEDI, Milan, 1961.](/assets/img/01/piero-manzoni.jpg)
     
         <figcaption>
-            <strong>Piero Manzoni signing a model during the making of a short film for Filmfiornale SEDI, Milan, 1961.</strong>
+            **Piero Manzoni signing a model during the making of a short film for Filmfiornale SEDI, Milan, 1961.**
         </figcaption>
     </figure>
 </div>
