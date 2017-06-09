@@ -299,6 +299,59 @@ figcaption {
   }
 }
 
+@media screen and (min-width: 1680px) {
+  article {
+    margin: 3em auto 4em;
+    max-width: 1552px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  article {
+    margin: 3em 5em 4em 3em;
+    max-width: 100%;
+  }
+  h1,
+  h2,
+  h3,
+  ol,
+  p {
+    max-width: 840px;
+  }
+  aside {
+    margin: 2em 0;
+    max-width: 840px;
+    padding: 0 3em;
+  }
+  blockquote {
+    max-width: 760px;
+    &:first-of-type {
+      max-width: 840px;
+    }
+  }
+  figure,
+  .lockup {
+    clear: both;
+    float: right;
+    margin: 0 0 2em;
+    width: calc(100% - 900px);
+  }
+  .lockup {
+    flex-direction: column;
+    figure {
+      width: 100% !important; /* override lock up widths */
+      + figure {
+        margin: 2em 0 0;
+      }
+    }
+    .dont-shoot-the-messenger & {
+      &.catalogue {
+        flex-direction: row;
+      }
+    }
+  }
+}
+
 @media screen and (min-width: 960px) {
   .toc {
     margin: 6em auto 8em;
