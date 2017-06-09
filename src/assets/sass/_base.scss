@@ -181,7 +181,7 @@ figure {
 
 figcaption {
   font-family: "Open Sans", sans-serif;
-  font-size: .5em;
+  font-size: .75em;
   margin: .5em 0 0;
 }
 
@@ -360,7 +360,38 @@ figcaption {
 
 @media screen and (max-width: 768px) {
   article {
-    margin: 3em 3em 4em 3em;
+    margin: 3em 4em 4em 3em;
     max-width: 580px;
+  }
+  blockquote {
+    &:first-of-type {
+      padding: .5em 2em;
+      width: 75%;
+    }
+  }
+}
+
+@media screen and (max-width: 680px) {
+  article {
+    margin: 2em 3em 3em 2em;
+  }
+  nav {
+    li {
+      font-size: 1em;
+    }
+  }
+  h1 {
+    font-size: 3.5em;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  h1 {
+    font-size: 3em;
+  }
+  blockquote {
+    &:first-of-type {
+      width: 100%;
+    }
   }
 }
