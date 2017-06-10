@@ -6,7 +6,7 @@ $tooltip = $('.tooltip');
 $tooltipContent = $('.tooltip .tooltip-content');
 
 $(document).ready(function() {
-    $numbers.on('mouseenter', function(e) {
+    $numbers.on('click', function(e) {
         var $target, note;
         $target = e.target;
         note = $notes.get($target.innerText - 1).innerHTML;
@@ -14,7 +14,7 @@ $(document).ready(function() {
         $tooltip.fadeIn();
     });
 
-    $numbers.on('mouseleave', function(e) {
+    $tooltip.on('click', function(e) {
         $tooltipContent.html('');
         $tooltip.fadeOut();
     });
