@@ -126,6 +126,15 @@ p {
   }
 }
 
+sup {
+  cursor: pointer;
+  display: inline-block;
+  font-size: .75em;
+  margin: 0 0 0 .5em;
+  position: relative;
+  text-align: center;
+}
+
 hr {
   border: none;
   margin: 2.5em 0 0;
@@ -296,6 +305,30 @@ figcaption {
   a {
     color: $satansGray;
     text-decoration: none;
+  }
+}
+
+.tooltip {
+  background-color: rgba($satansGray, .9);
+  bottom: 0;
+  display: none;
+  height: 100%;
+  left: 0;
+  padding: .5em;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  .tooltip-content {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+  }
+  p {
+    color: $white;
+    width: 75%;
+    max-width: 400px;
   }
 }
 
