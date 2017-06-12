@@ -30,7 +30,7 @@ nav {
     font-size: 1.5em;
     margin: 0;
     text-align: center;
-    @each $slug in pardon-my-french, dont-shoot-the-messenger {
+    @each $slug in pardon-my-french, dont-shoot-the-messenger, why-was-modernism-born-in-france, the-invention-of-non-art-a-history-part-1, the-invention-of-non-art-a-history-part-2, this-is-art-anatomy-of-a-sentence {
       &.#{$slug} {
         .#{$slug} & {
           background-color: $paleGray;
@@ -130,7 +130,6 @@ sup {
   cursor: pointer;
   display: inline-block;
   font-size: .75em;
-  margin: 0 0 0 .5em;
   position: relative;
   text-align: center;
 }
@@ -284,6 +283,9 @@ figcaption {
 .toc {
   margin: 6em 6em 8em;
   max-width: 768px;
+  h1 {
+    text-align: center;
+  }
   h2 {
     font-family: "Source Serif Pro", serif;
     margin: 2em 0 4em;
