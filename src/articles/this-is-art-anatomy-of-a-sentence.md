@@ -81,20 +81,24 @@ Without going into the philosophical reasons why this is so, let me state the ob
 
 I keep wondering about the intuitive truth Enwezor hit upon with his claim that "is" and "can be" amounted to the same thing in the case of Duchamp's readymades. It is true only for _Fountain_, but its truth is profound. The reflective aesthetic judgment that confirms or reconfirms _Fountain_'s art status follows the feedback loop of the mind that restates our initial postulate that all urinals, and indeed all things in the universe, _can be_ art. To make that postulate has now become both a theoretical necessity and a quasi-ethical obligation, because there is no empirical proof that we live in a world where anything can be art and where anyone can be an artist. Duchamp the angel was no prophet of that kind of liberation. But those, like John Cage, who felt the wind of liberty ruffle their feathers were not entirely wrong to thank him for it.
 
-### Notes
+<div class="notes">
+    <h3>Notes</h3>
 
-Thierry De Duve is currently teaching at the School of Visual Arts in New York. Previously, he was Kirk Varnedoe Visiting Professor at the Institute of Fine Arts, New York University.
+    <p>Thierry De Duve is currently teaching at the School of Visual Arts in New York. Previously, he was Kirk Varnedoe Visiting Professor at the Institute of Fine Arts, New York University.</p>
 
-All diagrams designed by the author.
-
-1. Quoted from Ludwig Wittgenstein, _Culture and Value_, trans. Peter Winch (Chicago: University of Chicago Press, 1989), 39e.
-2. Where I see two distinct _aesthetic regimes_, Rancière sees only one, which he opposes to the premodern _representational regime_. See Jacques Rancière, _Le Partage du sensible_ (Paris: La Fabrique, 2000). For the English translation, see _The Politics of Aesthetics: The Distribution of the Sensible_, trans. Gabriel Rockhill (London: Continuum, 2004).
-3. "There is thus no empirical proof that everything can be art, and no empirical proof, either, of the contrary. I am happy for the time being to call my starting point a postulate, and to beg the reader to adopt it as if it were an established fact. What matters is whether it is fruitful." See my "Pardon My French," _Artforum_, October 2013, 249.
-4. See my "Don't Shoot the Messenger," _Artforum_, November 2013, 266.
-5. Our sentence is not anonymously inscribed on some institutional support, such as in god we trust on dollar bills.
-6. Francis Naumann, ed., "I Shock Myself: Excerpts from the Autobiography of Beatrice Wood," _Arts Magazine_, May 1977, 135–36. The version with Bellows substituted for Kent (which I quoted in last month's essay) is in Wood's autobiography, _I Shock Myself_ (Ojai, CA: Dillingham Press, 1985), 29–30.
-7. William Camfield, _Marcel Duchamp: Fountain_ (Houston: Houston Fine Art Press, 1989), 25.
-8. The question of whether _Fountain_ validates theories of taste for the negative judgment "This is not art" is more delicate. I would tentatively say that it validates them for "This is not art" in the strong sense of "I have the feeling that this is not art" and not in the weak sense of "I don't have the feeling that this is art."
-9. This absolute incomparability must be distinguished from the judgment of relative incomparability with which we assess the artists we value the most or who puzzle us the most. An exclamation like "Shakespeare is incomparable!" may convey unrestricted or ambivalent praise, perhaps praise of the kind Wittgenstein had in mind when he wrote: "I do not believe that Shakespeare can be set alongside any other poet. Was he perhaps a _creator of language_ rather than a poet? / I could only stare in wonder at Shakespeare; never do anything with him." Wittgenstein, _Culture and Value_, 84e.
-10. "Manet's _Le Déjeuner sur l'herbe_ is a masterpiece" claims that all should agree but not that the speaker has compared the painting with all masterpieces. She found a basis for comparison with a few works in her collection that she deems masterpieces, and that was enough.
-11. In his book _L'Objet du siècle_ (The Object of the Century) (Paris: Verdier, 1998), the French psychoanalyst Gérard Wajcman has maintained, against all chronology but with deep insight into the inhumanity of the dreadful twentieth century, that Duchamp's readymade (he singles out the bicycle wheel, but occasionally switches to the urinal) and Malevich's _Black Square_ are the two objects that place us with wide-open eyes in front of _absence as such_—and he had the gas chambers in mind.
+    <p>All diagrams designed by the author.</p>
+    
+    <ol>
+        <li>Quoted from Ludwig Wittgenstein, _Culture and Value_, trans. Peter Winch (Chicago: University of Chicago Press, 1989), 39e.</li>
+        <li>Where I see two distinct _aesthetic regimes_, Rancière sees only one, which he opposes to the premodern _representational regime_. See Jacques Rancière, _Le Partage du sensible_ (Paris: La Fabrique, 2000). For the English translation, see _The Politics of Aesthetics: The Distribution of the Sensible_, trans. Gabriel Rockhill (London: Continuum, 2004).</li>
+        <li>"There is thus no empirical proof that everything can be art, and no empirical proof, either, of the contrary. I am happy for the time being to call my starting point a postulate, and to beg the reader to adopt it as if it were an established fact. What matters is whether it is fruitful." See my "Pardon My French," _Artforum_, October 2013, 249.</li>
+        <li>See my "Don't Shoot the Messenger," _Artforum_, November 2013, 266.</li>
+        <li>Our sentence is not anonymously inscribed on some institutional support, such as in god we trust on dollar bills.</li>
+        <li>Francis Naumann, ed., "I Shock Myself: Excerpts from the Autobiography of Beatrice Wood," _Arts Magazine_, May 1977, 135–36. The version with Bellows substituted for Kent (which I quoted in last month's essay) is in Wood's autobiography, _I Shock Myself_ (Ojai, CA: Dillingham Press, 1985), 29–30.</li>
+        <li>William Camfield, _Marcel Duchamp: Fountain_ (Houston: Houston Fine Art Press, 1989), 25.</li>
+        <li>The question of whether _Fountain_ validates theories of taste for the negative judgment "This is not art" is more delicate. I would tentatively say that it validates them for "This is not art" in the strong sense of "I have the feeling that this is not art" and not in the weak sense of "I don't have the feeling that this is art."</li>
+        <li>This absolute incomparability must be distinguished from the judgment of relative incomparability with which we assess the artists we value the most or who puzzle us the most. An exclamation like "Shakespeare is incomparable!" may convey unrestricted or ambivalent praise, perhaps praise of the kind Wittgenstein had in mind when he wrote: "I do not believe that Shakespeare can be set alongside any other poet. Was he perhaps a _creator of language_ rather than a poet? / I could only stare in wonder at Shakespeare; never do anything with him." Wittgenstein, _Culture and Value_, 84e.</li>
+        <li>"Manet's _Le Déjeuner sur l'herbe_ is a masterpiece" claims that all should agree but not that the speaker has compared the painting with all masterpieces. She found a basis for comparison with a few works in her collection that she deems masterpieces, and that was enough.</li>
+        <li>In his book _L'Objet du siècle_ (The Object of the Century) (Paris: Verdier, 1998), the French psychoanalyst Gérard Wajcman has maintained, against all chronology but with deep insight into the inhumanity of the dreadful twentieth century, that Duchamp's readymade (he singles out the bicycle wheel, but occasionally switches to the urinal) and Malevich's _Black Square_ are the two objects that place us with wide-open eyes in front of _absence as such_—and he had the gas chambers in mind.</li>
+    </ol>
+</div>

@@ -79,33 +79,37 @@ The limbo of non-art now contains one object that _everybody agrees_ doesn't bel
 
 But _Fountain_ is more than an idea, and it's not illustrated theory. Embodied theory, perhaps. The more I think about it, the more I tend to see _Fountain_ as the most remarkable thought experiment about art ever contrived, as dry and ethereal and mysteriously political as those quattrocento _citte ideale_ once attributed to Piero della Francesca. An ideal city is a transcendental place of agreement in disagreement: an agora empty of flesh-and-blood people, a haven in the public sphere based on the principal legitimacy of dissent. _Fountain_ prompts agreement about its belonging to the Art-in-General system, something that cannot be positively ascertained. Indeed, there is no proof that the system even exists. There is no proof that everything can be art. There are only dissenting judgments. To paraphrase Mallarmé, the judge of art has only to say: "This is art," of "this is not art." And as Reinhardt knew, only the latter is an absolute statement.
 
-### Notes
+<div class="notes">
+    <h3>Notes</h3>
 
-(Unless otherwise indicated, all quotations in French are the author's translation)
+    <p>(Unless otherwise indicated, all quotations in French are the author's translation)</p>
 
-1. Phyllisann Kalick, "An Interview with Ad Reinhardt," _Studio International_ 174 (December 1967): 272.
-2. Donald Judd, "Statement," in _Donald Judd: The Complete Writings 1959-1975_ (Halifax, Canada: The Press of Nova Scotia College of Art and Design, 2005), 190. Originally published in Kynaston McShine, ed., _Primary Structures: Younger American and British Sculptors_, exh. cat. (New York: The Jewish Museum, 1966).
-3. Thomas McEvilley, "Art in the Dark," _Artforum_, Summer 1983, 63.
-4. Clement Greenberg, _Homemade Esthetics_ (New York: Oxford University Press, 1999), 158.
-5. Ibid., 62.
-6. "_Couvrez ce sein que je ne saurais voir!_" Molière, _Tartuffe_, 3.2.860-62.
-7. Greenberg, _Homemade Esthetics_, 159.
-8. Ibid., 158.
-9. See my "The invention of Non-Art: A History," _Artforum_, February 2014, 192-99, 238.
-10. Greenberg, _Homemade Esthetics_, 158.
-11. This, after having seen him as the messenger of "anything goes" (_Artforum_, October 2013), of "everyone is an artist" (_Artforum_, November 2013), of the collapse of the Beaux-Arts system (_Artforum_, January 2014), and of the advent of non-art (_Artforum_, February 2014).
-12. Greenberg, _Homemade Esthetics_, 158.
-13. "The Invention of Non-Art: A History", 198.
-14. Leo Steinberg, "Contemporary Art and the Plight of Its Public," in _Other Criteria: Confrontations with Twentieth-Century Art_ (New York: Oxford University Press, 1972; Chicago: University of Chicago Press, 2007). Originally published in _Harper's Magazine_, March 1962.
-15. "In sum I see Manet's project in the _Déjeuner_ as involving a deliberate attempt to bring together and in effect to fuse in a single large-scale work as many of the major genres of painting as he could encompass." Michael Fried, _Manet's Modernism: or, The Face of Painting in the 1860s_ (Chicago: University of Chicago Press, 1996), 174.
-16. Fried, who sees Manet's attempt at a "totalization" of the major genres of painting as running parallel to, or indeed converging with, the artist's striving for a "universal" painting transcending the national schools, speaks of both endeavors as the pursuit of "painting altogether" (_Manet's Modernism_, 175, 126, 404). I prefer to speak of "painting at large" in order to avoid confusion with "art altogether," an expression I shall introduce and explain in the next _Artforum_essay in the present series.
-17. I quote Steinberg here, who ends his account of the depressing experience he had when visiting  Jasper John's fist New York solo show, in 1958, thusly: "For what really depressed me was what I felt these works were able to do to all other art. The pictures of de Kooning and Kline, it seemed to me, were suddenly tossed into one pot with Rembrandt and Giotto." Steinberg, "Contemporary Art", 12.
-18. Stéphane Mallarmé, "_Le Jury de peinture pour 1874 et M. Manet_," in _Oevres complètes_ (Paris: Bibliothèque de Pléiade, 1945), 699. I quote from George Heard Hamilton's translation (_Manet and His Critics_, 184), with the French "_tableau_" restored for Hamilton's "painting."
-19. "_Un sentiment très neutre de la valeur artistique discernible dans toute chose où elle se trouve." Mallarmé, "_Le Jury de peinture pour 1874 et M. Manet_," 699.
-20. "_Il [le public] est le maître à ce point, et peut exiger de voir tour ce qu'il y a." Ibid.
-22. Greenberg, _Homemade Esthetics_, 158.
-23. William Camfield, _Marcel Duchamp: Fountain_ (Houston: The Menil Collection, 1989), 25.
-24. Quoted in Francis Naumann, "The Big Show, The First Exhibition of the Society of Independent Artists, Part I," _Artforum_, February 1979, 38.
-25. The director in question is either George Bellows of Rockwell Kent. Beatrice Wood has given two versions fo the story, with either of them engaged in a heated discussion over _Fountain_ with Walter Arensberg. See Camfield, _Marcel Duchamp: Fountain_, 25-26, note 24.
-26. The expression "the sign in accordance" appears in two notes contained in Marcel Duchamp's _Green Box_. See Michel Sanouillet and Elmer Petersen, eds., _Salt Seller: The Writings of Marcel Duchamp_ (New York: Oxford University Press, 1973), 28.
-27. John Canaday, "Leonard Duchamp," _New York Times_, January 17, 1965.
+    <ol>
+        <li>Phyllisann Kalick, "An Interview with Ad Reinhardt," _Studio International_ 174 (December 1967): 272.</li>
+        <li>Donald Judd, "Statement," in _Donald Judd: The Complete Writings 1959-1975_ (Halifax, Canada: The Press of Nova Scotia College of Art and Design, 2005), 190. Originally published in Kynaston McShine, ed., _Primary Structures: Younger American and British Sculptors_, exh. cat. (New York: The Jewish Museum, 1966).</li>
+        <li>Thomas McEvilley, "Art in the Dark," _Artforum_, Summer 1983, 63.</li>
+        <li>Clement Greenberg, _Homemade Esthetics_ (New York: Oxford University Press, 1999), 158.</li>
+        <li>Ibid., 62.</li>
+        <li>"_Couvrez ce sein que je ne saurais voir!_" Molière, _Tartuffe_, 3.2.860-62.</li>
+        <li>Greenberg, _Homemade Esthetics_, 159.</li>
+        <li>Ibid., 158.</li>
+        <li>See my "The invention of Non-Art: A History," _Artforum_, February 2014, 192-99, 238.</li>
+        <li>Greenberg, _Homemade Esthetics_, 158.</li>
+        <li>This, after having seen him as the messenger of "anything goes" (_Artforum_, October 2013), of "everyone is an artist" (_Artforum_, November 2013), of the collapse of the Beaux-Arts system (_Artforum_, January 2014), and of the advent of non-art (_Artforum_, February 2014).</li>
+        <li>Greenberg, _Homemade Esthetics_, 158.</li>
+        <li>"The Invention of Non-Art: A History", 198.</li>
+        <li>Leo Steinberg, "Contemporary Art and the Plight of Its Public," in _Other Criteria: Confrontations with Twentieth-Century Art_ (New York: Oxford University Press, 1972; Chicago: University of Chicago Press, 2007). Originally published in _Harper's Magazine_, March 1962.</li>
+        <li>"In sum I see Manet's project in the _Déjeuner_ as involving a deliberate attempt to bring together and in effect to fuse in a single large-scale work as many of the major genres of painting as he could encompass." Michael Fried, _Manet's Modernism: or, The Face of Painting in the 1860s_ (Chicago: University of Chicago Press, 1996), 174.</li>
+        <li>Fried, who sees Manet's attempt at a "totalization" of the major genres of painting as running parallel to, or indeed converging with, the artist's striving for a "universal" painting transcending the national schools, speaks of both endeavors as the pursuit of "painting altogether" (_Manet's Modernism_, 175, 126, 404). I prefer to speak of "painting at large" in order to avoid confusion with "art altogether," an expression I shall introduce and explain in the next _Artforum_essay in the present series.</li>
+        <li>I quote Steinberg here, who ends his account of the depressing experience he had when visiting  Jasper John's fist New York solo show, in 1958, thusly: "For what really depressed me was what I felt these works were able to do to all other art. The pictures of de Kooning and Kline, it seemed to me, were suddenly tossed into one pot with Rembrandt and Giotto." Steinberg, "Contemporary Art", 12.</li>
+        <li>Stéphane Mallarmé, "_Le Jury de peinture pour 1874 et M. Manet_," in _Oevres complètes_ (Paris: Bibliothèque de Pléiade, 1945), 699. I quote from George Heard Hamilton's translation (_Manet and His Critics_, 184), with the French "_tableau_" restored for Hamilton's "painting."</li>
+        <li>"_Un sentiment très neutre de la valeur artistique discernible dans toute chose où elle se trouve." Mallarmé, "_Le Jury de peinture pour 1874 et M. Manet_," 699.</li>
+        <li>"_Il [le public] est le maître à ce point, et peut exiger de voir tour ce qu'il y a." Ibid.</li>
+        <li>Greenberg, _Homemade Esthetics_, 158.</li>
+        <li>William Camfield, _Marcel Duchamp: Fountain_ (Houston: The Menil Collection, 1989), 25.</li>
+        <li>Quoted in Francis Naumann, "The Big Show, The First Exhibition of the Society of Independent Artists, Part I," _Artforum_, February 1979, 38.</li>
+        <li>The director in question is either George Bellows of Rockwell Kent. Beatrice Wood has given two versions fo the story, with either of them engaged in a heated discussion over _Fountain_ with Walter Arensberg. See Camfield, _Marcel Duchamp: Fountain_, 25-26, note 24.</li>
+        <li>The expression "the sign in accordance" appears in two notes contained in Marcel Duchamp's _Green Box_. See Michel Sanouillet and Elmer Petersen, eds., _Salt Seller: The Writings of Marcel Duchamp_ (New York: Oxford University Press, 1973), 28.</li>
+        <li>John Canaday, "Leonard Duchamp," _New York Times_, January 17, 1965.</li>
+    </ol>
+</div>

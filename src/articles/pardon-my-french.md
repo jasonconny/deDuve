@@ -183,18 +183,22 @@ Artists were registering the fun and lack of importance of art in a variety of w
 
 The big questions will have to wait. From the point of view of the question "Since when?" Kosuth's claim is a sure sign that Duchamp's telegram had arrived. By the end of the '60s, it was in everyone's mailbox, and everyone was hurrying to find an adequate response. Between Ben's (the most straightfoward) and Kosuth's (the most elaborate) a small decade had passed, in which the most pervasive response, the most successful because the most promising and liberating, was already contained in the reasoning behind Ben's _Black Box_. I'll call it the Duchamp syllogism: When a urinal is art, anything can be art; and when anything can be art, anybody can be an artist. Pardon my French, or rather Robert Filliou's, this time: "_Oui, oui, voilà, oui! Tout le monde sera un artiste_." The future tense is telling. It is the signature of utopian thinking.
 
-### Notes
+<div class="notes">
+    <h3>Notes</h3>
 
-Research toward this series was facilitated by grants received from the Getty Research Institute, the Sterling and Francine Clark Art Institute, and the Center for Advanced Study in the Visual Arts, National Gallery of Art.
+    <p>Research toward this series was facilitated by grants received from the Getty Research Institute, the Sterling and Francine Clark Art Institute, and the Center for Advanced Study in the Visual Arts, National Gallery of Art.</p>
 
-1.  Richard Shiff, "Every Shiny Object Wants an Infant Who Will Love It," _Art Journal_ 70, no. 1 (2011): 11.
-2.  Hal Foster, "Questionnaire on ‘The Contemporary,'" _October_, no. 130 (Fall 2009): 3.
-3.  For such a subtle analysis, see Terry Smith, _What Is Contemporary Art?_ (Chicago: University of Chicago Press, 2009).
-4.  "A white gentlemen's urinal has been named the most influential modern art work of all time. Marcel Duchamp's Fountain came top of a poll of 500 art experts in the run-up to this year's Turner Prize which takes place on Monday. Picasso's Les Demoiselles d'Avignon (1907) was second, with Andy Warhol's Marilyn Diptych from 1962 coming third." "Duchamp's Urinal tops art survey" BBC News, last modified December 1, 2004, [news.bbc.co.uk/2/hi/entertainment/4059997.stm](http://news.bbc.co.uk/2/hi/entertainment/4059997.stm).
-5.  The most complete list of things, gestures, ideas, and claims constituting Ben's art practice in 1962 is to be found in _Moi, Ben, je signe_, a mimeographed pamphlet he issued in 1963. An augmented facsimile edition was published by Lebeer Hossmann Éditeurs, Brussels, in 1975. See pp. 12‑18.
-6.  John Giorno, "A Letter to the Editor," in _Twisted Pair: Marcel Duchamp/Andy Warhol_ (Pittsburgh: Andy Warhol Museum, 2010), 22. Published as a brochure in conjunction with the exhibition of the same name.
-7.  Winthrop Sargeant, "Dada's Daddy,"_Life_, April 28, 1952, 100‑108, 111.
-8.  Her name is Eve Babitz. She is alive and well, and a witty member of the LA art scene, who knows how to prolong her "fifteen minutes of fame."
-9.  John Canaday, "Leonardo Duchamp," _New York Times_, January 17, 1965, X19. Rosalind Krauss, for her part, sees in "Duchamp's eclipse of Picasso as the most important artist of the century" one of the three things that "happened to make it irrefutable that the specific medium had fallen onto the trash heap of history." Krauss, _Under Blue Cup_ (Cambridge, MA: MIT Press, 2011), 20.
-10.  The work was among the counterproposals submitted to Jorge Romero Brest, the director of the Instituto Torcuato di Tella, where the show was held, when the artists (among them David Lamelas, Oscar Bony, and Antonio Trotta) refused the theme of the relations between art and technology he had first proposed. See Jorge Glusberg, _Art in Argentina_ (Milan: Giancarlo Politi, 1986), 17‑18.
-11.  Joseph Kosuth, "Art After Philosophy" in _Art After Philosophy and After_ (Cambridge, MA: MIT Press, 1991), 18.
+    <ol>
+        <li>Richard Shiff, "Every Shiny Object Wants an Infant Who Will Love It," _Art Journal_ 70, no. 1 (2011): 11.</li>
+        <li>Hal Foster, "Questionnaire on ‘The Contemporary,'" _October_, no. 130 (Fall 2009): 3.</li>
+        <li>For such a subtle analysis, see Terry Smith, _What Is Contemporary Art?_ (Chicago: University of Chicago Press, 2009).</li>
+        <li>"A white gentlemen's urinal has been named the most influential modern art work of all time. Marcel Duchamp's Fountain came top of a poll of 500 art experts in the run-up to this year's Turner Prize which takes place on Monday. Picasso's Les Demoiselles d'Avignon (1907) was second, with Andy Warhol's Marilyn Diptych from 1962 coming third." "Duchamp's Urinal tops art survey" BBC News, last modified December 1, 2004, [news.bbc.co.uk/2/hi/entertainment/4059997.stm](http://news.bbc.co.uk/2/hi/entertainment/4059997.stm).</li>
+        <li>The most complete list of things, gestures, ideas, and claims constituting Ben's art practice in 1962 is to be found in _Moi, Ben, je signe_, a mimeographed pamphlet he issued in 1963. An augmented facsimile edition was published by Lebeer Hossmann Éditeurs, Brussels, in 1975. See pp. 12‑18.</li>
+        <li>John Giorno, "A Letter to the Editor," in _Twisted Pair: Marcel Duchamp/Andy Warhol_ (Pittsburgh: Andy Warhol Museum, 2010), 22. Published as a brochure in conjunction with the exhibition of the same name.</li>
+        <li>Winthrop Sargeant, "Dada's Daddy,"_Life_, April 28, 1952, 100‑108, 111.</li>
+        <li>Her name is Eve Babitz. She is alive and well, and a witty member of the LA art scene, who knows how to prolong her "fifteen minutes of fame."</li>
+        <li>John Canaday, "Leonardo Duchamp," _New York Times_, January 17, 1965, X19. Rosalind Krauss, for her part, sees in "Duchamp's eclipse of Picasso as the most important artist of the century" one of the three things that "happened to make it irrefutable that the specific medium had fallen onto the trash heap of history." Krauss, _Under Blue Cup_ (Cambridge, MA: MIT Press, 2011), 20.</li>
+        <li>The work was among the counterproposals submitted to Jorge Romero Brest, the director of the Instituto Torcuato di Tella, where the show was held, when the artists (among them David Lamelas, Oscar Bony, and Antonio Trotta) refused the theme of the relations between art and technology he had first proposed. See Jorge Glusberg, _Art in Argentina_ (Milan: Giancarlo Politi, 1986), 17‑18.</li>
+        <li>Joseph Kosuth, "Art After Philosophy" in _Art After Philosophy and After_ (Cambridge, MA: MIT Press, 1991), 18.</li>
+    </ol>
+</div>
