@@ -20,7 +20,7 @@ article {
         content: ' ';
         display: inline-block;
         height: 1em;
-        margin: 0 0 0 .25em;
+        margin: 0 0 -.125em .25em;
         width: 1em;
       }
     }
@@ -85,7 +85,7 @@ h1 {
 }
 
 h2 {
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
   margin: 1em 0 0;
   + .intro {
@@ -323,7 +323,7 @@ figcaption {
 }
 
 .tooltip {
-  background-color: rgba($satansGray, .9);
+  background-color: rgba($paleGray, .9);
   bottom: 0;
   display: none;
   height: 100%;
@@ -340,7 +340,8 @@ figcaption {
     height: 100%;
   }
   p {
-    color: $white;
+    color: $satansGray;
+    font-size: 1.2em;
     width: 75%;
     max-width: 400px;
   }
