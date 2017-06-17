@@ -6,6 +6,14 @@ index: 3
 layout: article.html
 ---
 
+<figure>
+    ![Members of the jury of painting for the Salon d'Automne, 1880, Paris](/assets/img/03/salon-dautomne-jury.jpg)
+    
+    <figcaption>
+        **Members of the jury of painting for the Salon d'Automne, 1880, Paris**. Photo: Roger Viollet/Getty Images
+    </figcaption>
+</figure>
+
 <div class="intro">
     <p>**In The Third** in a series of new essays on the avant-garde for Artforum, historian and philosopher Thierry de Duve’s exploration of Marcel Duchamp’s Fountain leads us to an unexpected place: the nineteenth-century French Salon. The reception of Duchamp’s scandalous readymade—despite its initial rejection in 1917—ultimately led to the watershed pronouncement that “anything can be art.” But de Duve argues that the work’s rippling effect travels in all directions, and here he looks back to the surprising source of Fountain’s true message—that “anyone can be an artist.” The source, he proposes, was a group of upstarts who, in 1880s Paris, claimed independence within that most established of European cultural institutions, the Beaux-Arts academy.</p>
 </div>
@@ -16,7 +24,23 @@ layout: article.html
 > Everyone is an artist; all are trying to make money with their work.<sup>2</sup>
 <cite>—Alexandre de Cailleux, 1840</cite>
 
+<figure>
+    ![Georges Seurat, Paysage l'ile de la Grande Jatte (Landscape Island of La Grande Jatte), 1884](/assets/img/03/seurat-landscape.jpg)
+    
+    <figcaption>
+        **Georges Seurat, _Paysage l'ile de la Grande Jatte_ (Landscape Island of La Grande Jatte), 1884.** oil on canvase, 25 3/4 x 35". From the Salon d'Hiver de la Société des Artistes Indépendents, December 1884-January 1885.
+    </figcaption>
+</figure>
+
 <span class="opening">In the vegetable garden of meanings</span>, some are carrot-like, others onion-like. The carrots shoot straight, dig deep, have an iron core and a purposive shape; the onions are all involute surface, skin upon skin upon skin round a vanishing center. The message Marcel Duchamp put in the mail in 1917 with _Fountain_ is an onion; its reception history is the history of its peeling. The first layer was not peeled off until the 1960s, when an ever-larger public was informed that a simple (some would say vulgar) ready-made urinal was a work of art worthy of the museum. With that, the news was officially released that anything could be art, and, whether in scorn or mirth, immediately decoded as follows: Once anything can be art, anyone can be an artist. I call this the Duchamp syllogism. In this manner a second layer of meaning was uncovered. But on the whole, the reception of Duchamp's message in the '60s was not true to the facts: It inferred the content of the second layer from the first, whereas it should have done the reverse. The factual truth is that once anyone and everyone can be an artist, it logically follows that anything and everything can be art.
+
+<figure>
+    ![Engraving of the Pavillion de la Ville de Paris, site of the Salon d'Hiver de la Société des Artistes Indépendents. December 1884-January 1885, avenue des Champs-Élysées, Paris.](/assets/img/03/pavillion-de-la-ville-de-paris.jpg)
+    
+    <figcaption>
+        **Engraving of the Pavillion de la Ville de Paris, site of the Salon d'Hiver de la Société des Artistes Indépendents. December 1884-January 1885, avenue des Champs-Élysées, Paris.**
+    </figcaption>
+</figure>
 
 There are at least three ways in which to understand that anyone can be an artist. For clarity's sake, let me cast aside the first two. When literary critic Marjorie Perloff, in conversation with poet Charles Bernstein, says, "To be an architect, you do have to learn very specific things. And a composer obviously has to know something about music. But anyone, it seems, can be a poet," she derides both the delusion of self-proclaimed poets and the contempt some people have for true poets whose skill they simply don't perceive.<sup>3</sup> Pertinent as Perloff's remark is, my concern is not with this first (mis)understanding. Nor is it with the "Anyone can be an artist" utopia typical of the moment when Duchamp's telegram was received. Joseph Beuys is exemplary in this regard. He was convinced that every human being is endowed with creativity—an inborn, universally distributed, and thus egalitarian faculty of bringing forth new things, forms, or events—which, however, lies fallow in most people. The social task of professional artists, Beuys thought, is to liberate this repressed creative potential until all human labor deserves to be called artistic. Essential to his (and others') belief in creativity is that it is future-oriented: It has the performative structure of a promise.
 
@@ -26,11 +50,45 @@ There are at least three ways in which to understand that anyone can be an artis
 
 At the opposite end of the spectrum is the cynical way in which to understand that anyone can be an artist, and this is the way that concerns me here: It underpins the moment when Duchamp sent his message; it is constative and past-oriented; it takes stock of a given, of a situation that already exists.<sup>4</sup> And given it was, in 1917, that in the specific context of the New York Society of Independent Artists, where _Fountain_ appeared and instantly disappeared, anyone who could afford to part with six dollars could gain the status of professional artist. There is nothing utopian in this, unless you want to call utopian the desire for democracy and the revolt against the National Academy of Design that instigated the birth of the Society. While Duchamp definitely endorsed the revolt, he looked ironically at utopia. Ever the true dandy, he knew that art and democracy didn't mingle well, and that to be avant-garde meant in fact to retrieve aristocratic values from the gutter so as to escape absorption into the middle class by all means. He saw the democratic dream of the Society's founders as sketching the background against which the uniqueness—in Max Stirner's sense—of the artist and his art would shine. And although Duchamp did not uphold a systematically catastrophic view of history—say, Walter Benjamin's heap of debris at the feet of Angelus Novus; he was too much on the victors' side for that—he looked at the newborn Independents in terms of the institution whose demise had made the Independents possible. Beneath "Anyone can be an artist" there is, I want to argue, a third layer to the onion: "The Beaux-Arts system has collapsed."
 
+<div class="lockup salon">
+    <figure>
+        ![Pietro Antonio Martini's etching of the 1887 Salon, Musée du Louvre, Paris.](/assets/img/03/pietro-antonio-martini.jpg)
+        
+        <figcaption>
+            **Pietro Antonio Martini's etching of the 1887 Salon, Musée du Louvre, Paris.**
+        </figcaption>
+    </figure>
+    
+    <figure>
+        ![Painter Charles Angrand's exhibitor card for the Salon de la Société des Artistes Indépendents, 1884.](/assets/img/03/charles-angrand-exhibitor-card.jpg)
+        
+        <figcaption>
+            **Painter Charles Angrand's exhibitor card for the Salon de la Société des Artistes Indépendents, 1884.**
+        </figcaption>
+    </figure>
+    
+    <figure>
+        ![Cover of catalogue for the Salon d'Hiver de la Société des Artistes Indépendents, December 1884-January 1885.](/assets/img/03/catalogue-salon-dhiver.jpg)
+        
+        <figcaption>
+            **Cover of catalogue for the Salon d'Hiver de la Société des Artistes Indépendents, December 1884-January 1885.**
+        </figcaption>
+    </figure>
+</div>
+
 * * *
 
 <span class="opening">Whether Duchamp, Albert Gleizes</span>, or someone else convinced the founders of the American Society of Independent Artists to model their bylaws after those of the French Société des Artistes Indépendants, Duchamp knew the Frenchmen among the founders were offering their American colleagues a model both obsolete and vitiated by the betrayal of its principles. He had experienced that betrayal firsthand when the French Indépendants censored his _Nude Descending a Staircase (No. 2)_ at their 1912 Salon. The Cubists were then the latest avant-garde, and their dogmatism flew in Duchamp's face; I have no doubt he took the lesson. The extent to which he knew the Indépendants' history and prehistory is more difficult to gauge—he was not even born when the Société was founded—but the matter may be irrelevant: The messenger is not the author of the message he is carrying; why should he be fully cognizant of its content?
 
 Let us go back, then, to the first Salon des Artistes Indépendants, held from May 15 to July 1, 1884\. The motivation behind it was no doubt exasperation with the severity of the jury of that year's official Salon; the bulk of the Indépendants were _refusés_ (the term for artists whose work did not gain admittance into the Salon). The fact that Georges Seurat was present at their first Salon and showed _Bathers at Asnières_, 1884, accounts for the event having been recorded as if it were a manifesto for Neo-Impressionism. In reality this is what the second Salon des Indépendants, held in 1886, would become—when Seurat showed the far more ambitious _A Sunday on La Grande Jatte—1884_, 1884–86\. In 1884, the Indépendants were mostly a group of disgruntled, ostracized artists, most of them mediocre. They resented being designated as _refusés_ and insisted that several medaled—and thus _hors concours_ (jury-exempted)—artists had joined their ranks. Even before their Salon ended, its organizing committee was accused of embezzlement by some participants, who summoned a general assembly on June 4 and, a week later, registered a new competing Société with Maître Coursault, a notary public in Montmorency. The initial group soon lost the battle to the newly founded Société, which is still active today.<sup>5</sup>
+
+<figure>
+    ![Georges Seurat, A Sunday on La Grande Jatte&mdash;1884, 1884-1886.](/assets/img/03/a-sunday-on-la-grande-jatte.jpg)
+    
+    <figcaption>
+        **Georges Seurat, _A Sunday on La Grande Jatte&mdash;1884_, 1884-1886.** oil on canvas, 6'9 3/4" x 10' 1 1/4", From Salon de la Société des Artistes Indépendents, August-September 1886.
+    </figcaption>
+</figure>
 
 The first Salon des Indépendants drew mixed reviews from the press; the majority of the critics were convinced that the official Salon's jury would be vindicated and the righteousness of its verdicts exposed for all to see—a conviction echoing the critical response the famous 1863 Salon des Refusés elicited at the time. Several critics questioned the name the Indépendants had given themselves. In _L'Illustration_, a critic writing under the pseudonym of Perdican wrote, "I shall reproach these _Indépendants_ for baptizing themselves _Indépendants_."<sup>6</sup> To which Paul de Katow added in _Gil Blas_ the same day:
 
@@ -45,6 +103,24 @@ Geffroy pinpoints where the shoe pinches when he asks whether exchanging depende
 * * *
 
 <span class="opening">Independence of style</span> was not at all the young Indépendants' first claim. Independence from the Salon jury was what mattered to the artists, individually and collectively. The motto "_Ni jury ni récompense_" (No jury, no prizes) was a rallying cry for a very large group of artists, only a handful of whom we remember today: Among the 402 artists who participated in that first 1884 Salon, only Charles Angrand, Henri-Edmond Cross, Albert Dubois-Pillet, Odilon Redon, Émile Schuffenecker, Seurat, and Paul Signac left a significant trace in art-history books, all except Redon as Neo-Impressionists. The 395 remaining artists were also present at the official Salon, could have been there, or were understandably rejected by it. The struggle for liberation from the jury was anything but congruent with the progress of modernism; to perpetuate that often-made conflation would be a huge mistake. It would also distract us from further peeling the onion of Duchamp's message. Here, in my view, is the question we should ask next: Why is it that peeling off the layer stating "Anyone can be an artist" strips bare the layer stating "The Beaux-Arts system has collapsed"?
+
+<div class="lockup monet-nadar">
+    <figure>
+        ![Claude Monet, Impression, soleil levant (Impression, Sun Rise), 1972](/assets/img/03/monet-impression-sunrise.jpg)
+        
+        <figcaption>
+            **Claude Monet, _Impression, soleil levant_ (Impression, Sun Rise), 1972,** oil on canvas, 18 7/8 x 24 2/4". From the Première Exposition de la Société Anonyme Coopérative des Artistes (The First Impressionism Exhibition), 1874.
+        </figcaption>
+    </figure>
+    
+    <figure>
+        ![Studio of Félix Nadar, site of the 1874 Première Exposition de la Société Anonyme Coopérative des Artistes (The First Impressionism Exhibition), 35, boulevard des Capucines, ca. 1861, Paris.](/assets/img/03/felix-nadar-studio.jpg)
+        
+        <figcaption>
+            **Studio of Félix Nadar, site of the 1874 Première Exposition de la Société Anonyme Coopérative des Artistes (The First Impressionism Exhibition), 35, boulevard des Capucines, ca. 1861, Paris.**
+        </figcaption>
+    </figure>
+</div>
 
 One lazy modern habit is to assume that the natural condition of visual artists is that of freewheeling individuals, with or without academic training, who are asked by art dealers to show their portfolios but not their diplomas. We take it for granted that the practice of the visual arts, architecture being the notorious exception, is not protected in the same way as the practices of law or medicine. So what, we might think, if in 1917 any New Yorker with six dollars to spend could buy his or her membership card in the Society of Independent Artists? And so what if in 1884 any Parisian with ten francs could participate in the first Salon des Indépendants?<sup>11</sup> Well, those apparently identical situations are in fact very different from one another, and the transatlantic divide is crucial. The 1916 incorporation of the Society of Independent Artists in New York did not even make a dent in the American art world, whose evolution owed more to the ambition of a few audacious art collectors than to the collective action of artists. Only in France did the legitimacy suddenly acquired by a bunch of self-proclaimed artists signal huge and dramatic changes—changes that led to the collapse of the whole art institution.
 
@@ -62,9 +138,25 @@ Is it by chance that the name Indépendants emerged in 1879 a few months after t
 
 > The 1880 Salon is a bedlam, a muddle, a hodgepodge made worse by the incomparable blunders of the new classification. On the pretext of democracy, one has stunned the poor and the unknown. Such is the novelty M. Turquet agreed to. But let that be; the painters don't deserve our support. They constantly beg for the help and the control of the state whereas they should send it packing, refuse these childish rewards and medals, and try to walk on their own legs at last.<sup>18</sup>
 
+<figure>
+    ![Members of the jury of painting for the 1880 Salon d'Automne, ca. 1880, Paris.](/assets/img/03/salon-dautomne-1880.jpg)
+    
+    <figcaption>
+        **Members of the jury of painting for the 1880 Salon d'Automne, ca. 1880, Paris.** Photo: Roger Viollet/Getty Images.
+    </figcaption>
+</figure>
+
 It was as if the minister of public instruction and Beaux-Arts, Jules Ferry, had heard Huysmans: Playing Pontius Pilate, he left it to Turquet to announce the withdrawal of the state's support for the Salon. On January 17, 1881, addressing the artists, Turquet said:
 
 > You must now entirely take charge of the free, material, and artistic management of the annual exhibitions, in replacement of the administration. The state will no longer intervene in your business. . . . Experience has sufficiently demonstrated that there is no possible compromise between complete management by the state and free management by the artists.<sup>19</sup>
+
+<figure>
+    ![Caricature of visitors to the 1880 Salon, Paris.](/assets/img/03/caricature-visitors-1880-salon.jpg)
+    
+    <figcaption>
+        **Caricature of visitors to the 1880 Salon, Paris.**
+    </figcaption>
+</figure>
 
 Turquet's speech was reproduced in the catalogue of the next Salon, now fully separate from the state and held in May 1881\. The same catalogue contains the statutes of a newly incorporated private society, dubbed Société des Artistes Français, drafted on January 28 and approved by Ferry on February 5\. From that date on, and despite the state's pathetic efforts to recuperate its lost power,<sup>20</sup> the artists were on their own: They were at last officially _independent_. In light of this, the creation of the Société des Artistes Indépendants three years later loses a bit of its heroism and revolutionary aura, and the constative and past-oriented sense of Duchamp's telegram becomes clearer.
 
@@ -80,7 +172,7 @@ We know the result of this either/or: Free exhibitions were eventually institute
 
 * * *
 
-<span class="opening">Why was Modernism born in France?</span Here is a working hypothesis. When we speak of the Salon system, we use a metonym for a mighty ideological state apparatus—to use Louis Althusser's phrase—whose concentration of power had no equivalent outside France. Just one example: The man behind Mac-Mahon's two-tiered Salon system was Eugène Guillaume, a powerful civil servant in the Ministry of Public Instruction and Beaux-Arts who served both before and after Mac-Mahon's resignation. His full title was directeur général des Beaux-Arts, président du Conseil des Beaux-Arts, and directeur de l'École des Beaux-Arts. Of course, he was also a member of the Académie des Beaux-Arts. At that historical moment, such concentration of power around the Beaux-Arts banner may have betrayed the anxiety of the fine-arts administration clinging to the deck of a sinking ship. But throughout the century that banner had been proudly flown on a tightly knit network of institutions with a strong pyramidal structure, tremendous prestige in the worlds of art and politics, and a high level of inbreeding. In the words of art historian Paul Smith:
+<span class="opening">Why was Modernism born in France?</span> Here is a working hypothesis. When we speak of the Salon system, we use a metonym for a mighty ideological state apparatus—to use Louis Althusser's phrase—whose concentration of power had no equivalent outside France. Just one example: The man behind Mac-Mahon's two-tiered Salon system was Eugène Guillaume, a powerful civil servant in the Ministry of Public Instruction and Beaux-Arts who served both before and after Mac-Mahon's resignation. His full title was directeur général des Beaux-Arts, président du Conseil des Beaux-Arts, and directeur de l'École des Beaux-Arts. Of course, he was also a member of the Académie des Beaux-Arts. At that historical moment, such concentration of power around the Beaux-Arts banner may have betrayed the anxiety of the fine-arts administration clinging to the deck of a sinking ship. But throughout the century that banner had been proudly flown on a tightly knit network of institutions with a strong pyramidal structure, tremendous prestige in the worlds of art and politics, and a high level of inbreeding. In the words of art historian Paul Smith:
 
 > The École was governed by the Académie des Beaux-Arts, itself governed by the Institut de France. The professors at the École were chosen from among the members of the Académie, and the same body also dominated the jury which awarded prizes at the annual Salon, or state-sponsored exhibition, where an artist could hope to gain critical recognition or official patronage.<sup>22</sup>
 
@@ -89,6 +181,24 @@ The Salon jury was the dead bolt of the whole system. It was by way of the jury 
 But what I think matters more than anything else is that the state exerted its monopoly over the art world exclusively through the Salon jury and, conversely, that the Salon jury was the exclusive instrument of the state's control for control's sake. It is too often believed that orienting the artists' apprenticeship in the desired direction or imposing an official style were the goals of the state apparatus.<sup>25</sup> Attempts at imposing an official style were never very successful. Direction of the artists' schooling was more efficient, but then mainly because it created networks and allowed nepotism to thrive.<sup>26</sup> The system was such that, whatever the style in vogue, the state and only the state was empowered to decide who was and who was not legitimately an artist, and this decision was made via the Salon jury. Acceptance into or rejection from the Salon was the relevant lock that opened or closed all other opportunities: procured the artist national, municipal, ecclesiastical, and private commissions; earned him critical attention in the press; ensured the sheer visibility of his work with the public; attracted dealers and collectors; and allowed him unjuried entry into the next Salon if medaled. Such an aggregation of arbitrary decisional power in a single cogwheel of the Beaux-Arts machinery, and over such a length of time (the first jury was instituted in 1748), has had no match anywhere in Europe or elsewhere.
 
 But striking as this unique feature of the French Beaux-Arts system is, it might not have exerted pressure toward the birth of modernism as forcibly as it did had it not entered into violent tension with another unique feature of this system: the free- for-all access of the public to the Salon. Unlike the exhibitions of the British Royal Academy, which charged the public an entrance fee, the French Salon was free until 1855, when it was part of the Exposition Universelle. That year turnstiles were installed, which counted 891,682 paying visitors.<sup>27</sup> (Incidentally, this is some 30,000 more than attended Documenta 13 in 2012—a remarkable indication of the Salon's appeal as mass entertainment.) The numbers for the next Salon, two years later, are very interesting because Sundays were free: The 265,180 visitors the Salon attracted on that single day overwhelmingly outnumbered the 182,586 paying visitors from the rest of the week, proof that the Salon attracted a low-income crowd far beyond what we might think was the constituency for high art.<sup>28</sup> "I have seen bourgeois folks, workers, and even peasants," Zola wrote in his "Salon of 1875."<sup>29</sup>
+
+<div class="lockup exposition-universelle">
+    <figure>
+        ![Case for the second-place medal awarded at the 1855 Exposition Universelle, Paris.](/assets/img/03/second-place-medal.jpg)
+        
+        <figcaption>
+            **Case for the second-place medal awarded at the 1855 Exposition Universelle, Paris.**
+        </figcaption>
+    </figure>
+    
+    <figure>
+        ![Eyre Crowe, Delivery Entrance of Palais des Beaux Arts at the Exposition Universelle, 1855.](/assets/img/03/delivery-entrance.jpg)
+        
+        <figcaption>
+            **Eyre Crowe, _Delivery Entrance of Palais des Beaux Arts at the Exposition Universelle, 1855_, 1855,** pen, ink wash, and graphite on paper, 8 3/4 x 12 1/8".
+        </figcaption>
+    </figure>
+</div>
 
 Anyone could visit the Salon, and did. But not everyone could exhibit at the Salon—far from it. It is this tension between the "absolute despotism" ruling over the artists' fate and the "complete liberty" of access granted the public that I believe explains why modernism was born in France. Modernism was forced into existence by this tension; it offered itself as the only survival strategy for high art that adequately addressed its true conditions on the levels of both form and content. First Gustave Courbet and then Manet were its great experimenters, for both were fundamentally—if paradoxically—Salon painters. Such is the hypothesis that peeling the onion of Duchamp's message has led me to entertain. If I am right, then the conditions of visibility within the Salon were not just a foil against which Courbet and Manet reacted. How they took those conditions into account, dealt with them, answered them, countered them, must be part and parcel of what defines modernism in painting. But that's another story.<sup>30</sup>
 

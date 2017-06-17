@@ -88,7 +88,8 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
   margin: 1em 0 0;
-  + .intro {
+  + .intro,
+  + figure {
     margin: 4em 0 0;
   }
 }
@@ -194,6 +195,9 @@ blockquote {
 
 figure {
   margin: 2em 0;
+  + .intro {
+    margin: 2em 0 0;
+  }
   img {
     width: 100%;
   }
@@ -286,6 +290,41 @@ figcaption {
         }
         &:last-of-type {
           width: calc(49% - 1em);
+        }
+      }
+    }
+  }
+  .why-was-modernism-born-in-france & {
+    &.salon {
+      figure {
+        &:first-of-type {
+          width: calc(39.25% - 1em);
+        }
+        &:nth-child(2) {
+          width: calc(42.5% - 2em);
+        }
+        &:last-of-type {
+          width: calc(18.25% - 1em);
+        }
+      }
+    }
+    &.monet-nadar {
+      figure {
+        &:first-of-type {
+          width: calc(57.125% - 1em);
+        }
+        &:last-of-type {
+          width: calc(42.875% - 1em);
+        }
+      }
+    }
+    &.exposition-universelle {
+      figure {
+        &:first-of-type {
+          width: calc(42% - 1em);
+        }
+        &:last-of-type {
+          width: calc(58% - 1em);
         }
       }
     }
