@@ -6,12 +6,38 @@ index: 5
 layout: article.html
 ---
 
+<figure>
+    ![Detail of Édouard Manet's Le Déjeuner sur l'herbe (Luncheon on the Grass), 1863.](/assets/img/05/luncheon-01.jpg)
+    
+    <figcaption>
+        **Detail of Édouard Manet's _Le Déjeuner sur l'herbe_ (Luncheon on the Grass), 1863,** oil on canvas, 81 1/8 x 104 1/8".
+    </figcaption>
+</figure>
+
 <div class="intro">
     <p>**In the fifth in a series** of new essays on the avant-garde for _Artforum_, historian and philosopher Thierry de Duve investigates the ideas behind one of modernism's most notorious inventions: non-art, the vexing category of things that reject, trouble and ultimately expand the definistion of art itself. From the nineteenth-century Beaux-Arts systemt to Marcel Duchamp's radical readymade _Fountain_, 1917, to the pluralism of the present day; from the fin-de-siècle ruminations of Stéphane Mallarmé to the aesthetic pronouncements of Clement Greenberg, de Duve reveals the astonishing theoretical implications of non-art—as term, as idea, adn as type. In the process, he offers a groundbreaking narrative for the emergence of our contemporary understanding of art.</p>
 </div>
 
 > You can only make absolute statements negatively.<sup>1</sup>
 <cite>—Ad Reinhardt</cite>
+
+<div class="lockup luncheon">
+    <figure>
+        ![Detail of Édouard Manet's Le Déjeuner sur l'herbe (Luncheon on the Grass), 1863.](/assets/img/05/luncheon-02.jpg)
+    </figure>
+    
+    <figure>
+        ![Detail of Édouard Manet's Le Déjeuner sur l'herbe (Luncheon on the Grass), 1863.](/assets/img/05/luncheon-03.jpg)
+    </figure>
+    
+    <figure>
+        ![Detail of Édouard Manet's Le Déjeuner sur l'herbe (Luncheon on the Grass), 1863.](/assets/img/05/luncheon-04.jpg)
+    </figure>
+    
+    <figcaption>
+        **Details of Édouard Manet's _Le Déjeuner sur l'herbe_ (Luncheon on the Grass), 1863,** oil on canvas, 81 1/8 x 104 1/8".
+    </figcaption>
+</div>
 
 <span class="opening">In 1966, Donald Judd,</span> reflecting on a widespread debate in contemporary art circles, wrote in a somewhat exasperated tone: "'Non-art', 'anti-art', 'non-art art' and 'anti-art art' are useless. If someone says his work is art, it's art."<sup>2</sup> The sovereign naming power that Judd Granted himself and his fellow artists here is remarkable. Those of use who are not artists, or who are rival artists, might object to such a fiat. Those who are critics, gallery owners, museum curators, or collectors might object less to this fiat than to its appropriation by the sole artist. Well, the objection seems to have been vindicated: By the beginning of the 1980's, the power of calling something art had purportedly shifted from the artist to the institution of art as a whole. In the words of one critic, the late Thomas McEvilley: 
 
@@ -24,6 +50,24 @@ Constructing the lineaments of just such an alternative aesthetic theory was pre
 > It was Croce's big mistake, and others', to say that if art is bad, it is not art, and then to leave it undecided as to what bad art was, what order of experience it belonged to. That left a whole huge area of human experience unaccounted for; not bad art, non-art. And introspection, I think, shows that this isn't so, that it is the very nature of art to contain infinite degrees of value, quality, and so forth.<sup>4</sup>
 
 "Introspection shows that this isn't so": If you reflect enough on your aesthetic experience of art, Greenberg argued, you'll realize that you cannot draw a line beyond which bad art is so terribly bad that is ceases to be art at all. I must say that I agree. I know from experience that the aesthetic application of art is a matter of intensity of feeling and urgency of thought on a continuous scale of nuances. Even though, in theory, there ought to be a boundary somewhere between art and non-art, in experience it is bound to dissolve. I beg your pardon: I just wrote "non-art" as shorthand for "what is not art." In Greenberg's account, "non-art" is not the same thing as "not-art," yet it is not simply a trivial subcategory of art either, as Judd would have us believe. _Non-art is bad art mistaken for not-art._ That mistake is not the error of taste, and thus supposedly not a matter of aesthetic experience; philosophers would call it a category mistake (a fallacy where things that belong to one category are mistakenly placed in another)&mdash;and a strange one, because it seems to be voluntary. If I understood Greenberg correctly, non-art is what results from a refusal to judge aesthetically something that ought to have been the object of an aesthetic judgement, however severe. Works of art are such things. Indeed, Greenberg's adamant conviction was that "when no esthetic value judgement, no verdict of taste, is there, then art isn't there either, then esthetic experience of any kind isn't there. It's as simple as that."<sup>5</sup>
+
+<div class="lockup judd-greenberg">
+    <figure>
+        ![Donald Judd installing at Leo Castelli Gallery, New York, ca. 1966.](/assets/img/05/donald-judd.jpg)
+        
+        <figcaption>
+            **Donald Judd installing at Leo Castelli Gallery, New York, ca. 1966.** Photo: Bob Adelman/Cortis
+        </figcaption>
+    </figure>
+    
+    <figure>
+        ![Clement Greenberg, 1948.](/assets/img/05/clement-greenberg.jpg)
+        
+        <figcaption>
+            **Clement Greenberg, 1948.** Photo: Leonard McCombe/Time Life Pictures/Getty Images.
+        </figcaption>
+    </figure>
+</div>
 
 * * *
 
@@ -41,11 +85,27 @@ Clever, but wrong. It is not up to the critic of the theorist of aesthetics to d
 
 The passage from one such system to another is the broader scope of my _Artforum_ series as a whole, and the role that non-art played in this passage is the focus of this and last month's essays.<sup>9</sup> The art institution we left behind is the Beaux-Arts system, and the institution we have entered is what I call the Art-in-General system. Right now, the latter is moving swiftly away from the dealer-critic system that defined it since the end of the nineteenth-century, into some private collector/celebrity artist/monopolistic gallery/prestigious auction house/Russian oligarch system that has disastrous, predictable adn perhaps felicitous, unpredictable effects on contemporary art. (It's too early to tell, and it depends on whether or not a new avant-garde emerges from our "contemporaneity" in the way the original avant-garde emerged from nineteenth-century academicism.) We may have left the dealer/critic syste behind _economically_, but we still live in the Art-in-General system, and probably for a long time to come, because what defines the latter _aesthetically_ is that in it anything can be art. In Greenberg's words: "We live in an ocean of art or of the possibility of art. An infinity already there."<sup>10</sup>
 
+<figure>
+    ![Detail of caricature by Honoré Daumier published in Le Charivar, April 6, 1859.](/assets/img/05/daumier-cartoon.jpg)
+    
+    <figcaption>
+        **Detail of caricature by Honoré Daumier published in _Le Charivar_, April 6, 1859.** The caption reads: "Ignoramuses&hellip;they have refused this!"
+    </figcaption>
+</figure>
+
 I see Duchamp as the messenger who heralded teh passage from teh Beaux-Arts to the Art-in-General system.<sup>11</sup> And I take _Fountain_ to encapsulate teh news of that passage, broadcast in 1917 (with Alfred Stieglitz's photo of the work in the journal _The Blind Man_, which tells of the urinal's disappearance from the First Annual Exhibitions of the Society of Independent Artists) but not reaching its audience until the mid-60's, when a myriad of artists suddenly acknowledged receipt of it. Although Greenberg was a little slower on the uptake than many of those artists, he didn't make the mistake of shooting the messenger when he spoke of "an infinity already there." It is remarkable that, for all his hatred of Duchamp and of all the bad art Duchamp's success had spawned, Greenberg never rejected the readymades as not-art. He acknowledged them as a demonstration worth making and never made before: that everything is potential art&mdash;or, as he put it: "virtually art."<sup>12</sup> Whether such a thing can be demonstrated is doubtful, but it doesn't affect what is important in Greenberg's institution&mdash;as if any artist could single-handedly achieve a chnage of that magnitude. Duchamp certainly conceived the idea of readymades, and he chose them one by one; he produced _Fountain_ in precise circumstances; he most likely knew that sooner of later someone would coin teh expression "non-art" to account for his gesture and similar ones by other artists; byt he did not _invent_ non-art. Neither did other Dada artists or Dada as a movement. As I argued in last month's essay, the invention of non-art is some fifty years older than Dada and cannot be attributed to any artist at all. It is an involuntary side effect of the binary structure of aesthetic judgement in the French Beaux-Arts system's main state apparatus, the nineteenth century Salon.
 
 * * *
 
 <span class="opening">With Greenberg's insight</span> about Croce's mistake in mind, let us now revisit the five stages of the birth of non-art I outlined in my previous essay. First stage: the Salon des Refusés. I have argued that the jurors' rejection of Édouard Manet's _Le Bain_ (The Bath, now titled _Le Déjeuner sur l'herbe_ [Luncheon on the Grass]), 1863, at the Salon that same year rested on the denial of their intensely emotional aesthetic response to the poainting: "The jurors _knew_ that with _Le Bain_ Manet had radically  redefined the tableau; they just couldn't stand it."<sup>13</sup> I admit this was speculative. But in the absence of direct historical testimony, we are bound to speculate. So I drew on my experience and on that of Leo Steinberg, as recounted in his essay "Contemporary Art and the Plight of Its Public" (1962), in order to construct a plausible phenomenology of the jury's verdict.<sup>14</sup> Let me now build on that. First, allow me to dispel all the allegations that the painting was a prank intended to mock tradition and to shock the bourgeois. This may very well have been an unintended effect of the painting, of which Manet was aware and which he accepted, but _anti-art_ was definitely not on his mind. Then, let me emphasizd the seriousness and ambition of the artist's endeavor with _Le Bain_, by resting my appraisal of his intentions on Michael Fried's now-classic analysis of the painting: Fried reads the problematic unity of the canvas as relying on an unprecedented attempt to achieve the synthesis of all the genres of painting.<sup>15</sup> And let me thus speculate the following: Manet presented the jurors with what he conceived as a _tableau_, which quasi-didactically embodied that attempt at a synthesis. The jurors intuitively sensed Manet's ambitions because their notion of the tableau&mdash;the one prevalent in teh criticism of the 1860's&mdash;involved a coalescence of qualities independent of genre. But they could not, or would not, accept the consequence Manet drew from that independence, namely, that "tableau" henceforth stood for _painting at large_ rather than for portrait, landscape, or history pairing.<sup>16</sup> In their eyes, none of the qualities that would award the painting the status of a tableau&mdash;and _pace_ Greenberg, that _was_ and honorific status&mdash;were present. As far as they were concerned, Manet had thrown a commotion on the canvas: a still life in the lower-left corner, a superb _morceau de peinture_, but how lackadaisically strewn on the model's petticoat!; a landscape in the background painted so hastily it looked like a theater backdrop; and an incomprehensible genre scene in teh middle, in which the jury may or may not have recognized an updated, thirdhand quotation of Raphael via Marcantonio and Charles Blanc, not counting the indecent nude that looks us in the eyes and tosses Ingre's slick odalisque "into one pot with Rembrandt and Giotto."<sup>17</sup> The jurors saw the impure mixture fo genres but not their new synthesis. As a result, _Le Bain_ appeared to them as a total _negation_ or _betrayal_ fo the conventions of the tableau in any genre, and this was enough to motivate their rejection of the painting.
+
+<figure>
+    ![Édouard Manet, Les Hirondelles (The Swallows), 1873](/assets/img/05/les-hirondelles.jpg)
+    
+    <figcaption>
+        **Édouard Manet, _Les Hirondelles_ (The Swallows), 1873**, oil on canvas, 25 1/8 x 31 7/8".
+    </figcaption>
+</figure>
 
 Negation and betrayal were, in the jurors' minds, perpetrated by the artist. From our point of view, however, it is clear that the jurors, not the artist, enunciated the negation. They are the ones who judged that _Le Bain_ was _not_ a tableau good enough to be shown. With that switch in agency, the meaning of _betrayal_ changes: It meant _treason_ for the jurors, who accused Manet of it; it means _involuntary admission_ for us, who attribute it to the jurors. Did the jurors commit Croce's mistake? Did they wrongly take bad art for not-art? Not exactly; we are dealing here with a more sophisticated variant of Croce's mistake. First, _Le Bain_ was not so much bad art in the jurors' eyes as disquieting art, upsetting art, incomprehensible and perhaps revolting art; all epithets that made them accuse Manet of betrayal. Second, the jurors did not rule that _Le Bain_ was not art, only that it was to be banned from public view. (If the painting ended up being shown, it was only thanks to the emperor, Napoleon III, who authorized the Salon des Refusés.) But to ears attuned to the exasperated tone of their possible debate, their verdict sounds like an involuntary avowal of the painting's perceived but not acknowledged qualities. It conveys a negation of a particular kind, a denial in the quasi-Freudian sense, a "no" that betrays itself as a "yes." Third, and this is crucial: When the jurors denied _Le Bain_ the aesthetic qualities that would have made it a tableau in their eyes, did they also deny having had an aesthetic experience? I speculate that they did. A negative aesthetic experience rarely translates as a claim of _not having had an aesthetic experience at all_, but this seems to have been the case here, as close attention to the second stage of the birth of non-art may confirm.
 
@@ -65,11 +125,27 @@ How do I know this? How is all this more than gratuitous speculation? Decoding M
 
 Now, the interesting thing is that because of the lack of a perceptible difference between denial and ordinary logical negation (both use the symbol _no_), we can reach the same conclusion without Mallarmé's help. It is a trivial consequence of the division of the arts in the Beaux-Arts system that something that is not a painting, and is obviously not a sculpture, a poem, or a piece of music either&mdash;a chair, for example&mdash;cannot find a place among the fine arts, and therefore cannot be art. No value judgment is involved: To say that a chair is not a work of art is no insult to the chair. Here, I believe, lies the key to the question of whether the jurors made Croce's category mistake: They didn't commit it; they _invoked_ it, whether consciously or not. A chair is not a work of art for the reason brought up by Greenberg: It doesn't call for an aesthetic judgment. The framed pictures Mallarmé asked the jury to dispatch to the categories of tableau or non-tableau, on the other hand, _of course_ called for the jury's aesthetic judgment. But the jurors had an alibi for their denial if, under the pretext that Manet did not present them with a full-fledged tableau, they could pretend to remove _Les Hirondelles_ from the category of the tableau, the way you and I sort chairs from non-chairs.
 
+<figure>
+    ![Unknown artist (formerly attributed to Piero della Francesca), Città Ideale (Ideal City), ca. 1480](/assets/img/05/citta-ideale.jpg)
+    
+    <figcaption>
+        **Unknown artist (formerly attributed to Piero della Francesca), _Città Ideale_ (Ideal City), ca. 1480**, oil on panel, 23 1/2 x 79".
+    </figcaption>
+</figure>
+
 I'm not sure how much of this Mallarmé consciously theorized. I'd say very little. Whatever the case, his admonition to the jury symptomatically sheds light on the jury's reach for an aliby: In denying _Les Hirondelles_ the quality of a tableau, the jurors translated their negative, annoyed, disturbed, but definitely _aesthetic_ response into the disingenuous after-the-fact claim of not having had an aesthetic experience at all. The ricochet in Mallarmé's rescue of the painting is an even more interesting symptom: In reversing the jurors' verdict and thus granting legitimate art-status candidacy to what remained a non-tableau _in their eyes_, Mallramé transgressed the boundaries of the Beaux-Arts system. In retrospect, the same can even be said of Napolean III, when he authorized the Salon des Refusés. I mentioned earlier that if I understood Greenberg correctly, non-art resulted from a refusal to make an aesthetic judgment, however severe, about something that ought to be judged aesthetically. We are now a step beyond Greenberg. Non-art is a strange ontological category: the category of things that claim candidacy to art status and yet are denied the aesthetic appreciation such things require because, _in the Beaux-Arts system_, they cannot possibly be art.
 
 * * *
 
-<span class="opening">Is there an art institution</span>, different from the Beaux-Arts system, where such things can be art? We know the answer: In the Art-in-General system in which we live, everything is a legitimate candidate for the status of art. And we are back to the question I asked in the first essay in this series: Since when? Since when do we live in the Art-in-General system? When did we exit the Beaux-Arts system? Except in cases of revolution, history doesn't move overnight from one institution to another, especially not from one with as massive a presence as the French Beaux-Arts system. Yet the change could not have occurred gradually: The Beaux-Arts system morphing seamlessly in the Art-in-General system is as inconceivable as a monarchy smoothly becoming a republic. A conceptual revolution occurred, radical and absolute, and it is not the (r)evolution the history of modern art usually narrates. Cézanne's late paintings morphing into Georges Braque's early Cubism, morphing into Pablo Picasso's papiers collés and cardboard constructions, morphing into Kurt Schwitters's _Merzbau_ and Duchamp's readymades, is a familiar story; in no way does it account for the transition from the Beaux-Arts to the Art-in-General system, which seems to me much better explained historically if we map it onto the five stages of the invention of non-art. In the long run, such a mapping may ask art historians to theorize our concept of history in new, largely untried ways. For the time being, we might put our efforts on trial by turning to the third stage in the birth of non-art, the creation in 1884 fo the Société des Artistes Indépendants.
+<span class="opening">Is there an art institution</span>, different from the Beaux-Arts system, where such things can be art? We know the answer: In the Art-in-General system in which we live, everything is a legitimate candidate for the status of art. And we are back to the question I asked in the first essay in this series: Since when? Since when do we live in the Art-in-General system? When did we exit the Beaux-Arts system? Except in cases of revolution, history doesn't move overnight from one institution to another, especially not from one with as massive a presence as the French Beaux-Arts system. Yet the change could not have occurred gradually: The Beaux-Arts system morphing seamlessly in the Art-in-General system is as inconceivable as a monarchy smoothly becoming a republic. A conceptual revolution occurred, radical and absolute, and it is not the (r)evolution the history of modern art usually narrates. Cézanne's late paintings morphing into Georges Braque's early Cubism, morphing into Pablo Picasso's papiers collés and cardboard constructions, morphing into Kurt Schwitters's _Merzbau_ and Duchamp's readymades, is a familiar story; in no way does it account for the transition from the Beaux-Arts to the Art-in-General system, which seems to me much better explained historically if we map it onto the five stages of the invention of non-art. In the long run, such a mapping may ask art historians to theorize our concept of history in new, largely untried ways. For the time being, we might put our efforts on trial by turning to the third stage in the birth of non-art, the creation in 1884 of the Société des Artistes Indépendants.
+
+<figure>
+    ![Marcel Duchamp, Fountain, 1917/1950](/assets/img/05/fountain.jpg)
+    
+    <figcaption>
+        **Marcel Duchamp, _Fountain_, 1917/1950**, glazed ceramic, paint, 12 x 15 x 18".
+    </figcaption>
+</figure>
 
 I insisted in last month's essay that the Société's motto, "_Ni jury ni récompense_" (no jury, no prizes), amounted to the a priori admission that anything a member would present counted as potential art. Such an admission preempted any judgement stating "this _cannot_ be art," since all entries had a legitimate claim to art status as a matter of principle. The Salon des Inépendents was the first venue in which, to return to Greenberg's terms, "all reality, all possibility [was] virtually art."<sup>22</sup> I see the Indépendents as the first historical incarnation of the Art-in-General system&mdash;a very local one, certainly, hardly pioneering an aesthetic upheaval and totally blind to the radical shift it precipitated. The Société could not possibly foresee that the betrayal of its no-jury rule automatically amounted not only to the denial of the rejected work's virtual art status but also to the refusal to acknowledge the transition from the Beaux-Arts to Art-in-General system, which the Société had willy-nilly accomplished. I would bet that no one among the founders of the Indépendents realized that to refuse a member's entry (on any grounds) did not mean _this is not art_, but rather _this cannot be art_, in total contradiction of the no-jury rule. And no one predicted that someday the Indépendents might have to make an exception to that rule.
 

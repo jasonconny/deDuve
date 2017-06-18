@@ -349,6 +349,35 @@ figcaption {
       }
     }
   }
+  .the-invention-of-non-art-a-history-part-2 & {
+    &.luncheon {
+      flex-wrap: wrap;
+      figure {
+        &:first-of-type {
+          width: calc(33% - 1em);
+        }
+        &:nth-child(2) {
+          width: calc(49.125% - 2em);
+        }
+        &:last-of-type {
+          width: calc(18.875% - 1em);
+        }
+      }
+      figcaption {
+        width: 100%;
+      }
+    }
+    &.judd-greenberg {
+      figure {
+        &:first-of-type {
+          width: calc(49.375% - 1em);
+        }
+        &:last-of-type {
+          width: calc(50.625% - 1em);
+        }
+      }
+    }
+  }
 }
 
 .toc {
@@ -429,6 +458,11 @@ figcaption {
   p {
     max-width: 840px;
   }
+  h2 {
+    + figure {
+      margin: 2em 0;
+    }
+  }
   aside {
     margin: 2em 0;
     max-width: 840px;
@@ -446,6 +480,16 @@ figcaption {
     float: right;
     margin: 0 0 2em;
     width: calc(100% - 900px);
+  }
+  figure {
+    .the-invention-of-non-art-a-history-part-2 & {
+      &:first-of-type {
+        margin-bottom: 0;
+        figcaption {
+          display: none;
+        }
+      }
+    }
   }
   .lockup {
     flex-direction: column;
