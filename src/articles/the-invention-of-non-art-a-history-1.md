@@ -6,6 +6,14 @@ index: 4
 layout: article.html
 ---
 
+<figure>
+    ![Édouard Manet, Le Déjeuner sur l'herbe (Luncheon on the Grass), 1863.](/assets/img/04/le-dejeuner-sur-lherbe.jpg)
+    
+    <figcaption>
+        **Édouard Manet, _Le Déjeuner sur l'herbe_ (Luncheon on the Grass), 1863,** oil on canvas, 81 1/8 x 104 1/8".
+    </figcaption>
+</figure>
+
 <div class="intro">
     <p>**In the fourth in a series** of new essays on the avant-garde for Artforum, historian and philosopher Thierry de Duve continues his groundbreaking excavation of the meaning of Marcel Duchamp’s 1917 Fountain. Here, de Duve argues that to locate the source of the readymade’s legendary insurrection against the category of art, we must look to an even earlier schism: the 1863 exhibition of art rejected from the hallowed French Beaux-Arts institution of the Salon. For it is at the so-called Salon des Refusés—and in the debates that erupted around the work of its most famous participant, Édouard Manet—that we find the public emergence of “non-art” in words and in images alike. The sea change is one we do not yet fully understand, but that ushered in the aesthetic conditions under which we are still living today.</p>
 </div>
@@ -14,6 +22,14 @@ layout: article.html
 <cite>—Benjamin H. D. Buchloh</cite>
 
 <span class="opening">I don't know who coined the expression "non-art."</span>But I remember that "non-art" and its supposed twin, "anti-art," were very much in fashion in the art criticism of the 1960s. The terms were used to refer to Dada and early Pop art, then seen as "Neo-Dada." However, by the mid-'70s, critics had realized that Pop art owed very little to the nihilistic thrust of the Dadaists. To imagine Robert Rauschenberg shouting with Hugo Ball at the Cabaret Voltaire in Zurich had become counterintuitive; attention had shifted from Dada to the _Neo_ in_ Neo-Dada_, from the revolution to its recuperation. Consequently, "non-art" and "anti-art" fell out of fashion. It was clear to everyone in the art world that the aggressiveness of anti-art had been tamed, that the negativity of non-art had been in turn negated, sublated, or otherwise mutated into positivity.
+
+<figure>
+    ![Page from The Blind Man, no. 2 (May 1917)](/assets/img/04/blind-man-no-2.jpg)
+    
+    <figcaption>
+        **Page from _The Blind Man_, no. 2 (May 1917).**
+    </figcaption>
+</figure>
 
 Not everyone greeted the erasure of non-art's negativity with indifference or resignation. The epigraph above—by one of the best among those art critics I once called the last partisans of the avant-garde<sup>2</sup>—is exemplary of a school of thought for which negation is an instrument of resistance against the fetishization of artworks promoted by the capitalist socioeconomic order. Benjamin H. D. Buchloh's quest for the right criterion according to which to judge artistic production is, in fact, the remote yet direct descendant of Stendhal's famous line, "Beauty is but the promise of happiness"—rephrased in the post-Adornian lingo that stresses the sobering, skeptical "but" of Stendhal's phrase to imply "critical negativity." Meanwhile, Buchloh's invocation of "dialectical capacities" rekindles Adorno's paradoxical reading of Stendhal: "Art must break its promise in order to stay true to it."<sup>3</sup> The 2012 essay from which I took this epigraph, "Farewell to an Identity," is a strong, salutary, and coherent, if rather despairing protest against the appalling spectacularization fashionable art has reached in today's world. I cannot recommend its reading enough. But it is 100 percent persuasive only to those readers who share Buchloh's post-Adornian convictions. Unfortunately, I don't count myself in that group.<sup>4</sup>
 
@@ -35,11 +51,27 @@ Non-art came into being inadvertently, in five successive stages and at the conf
 
 The appellation Beaux-Arts refers to arts in the plural and calls them beautiful, something that gets lost in the English "fine arts." Of course, this doesn't mean that all works produced in this system were beautiful but, rather, that the Beaux-Arts strove for beauty as opposed to utility or pleasantness. As for the plurality of the arts, since the relevant context was the nineteenth-century French Salon, how were the visual arts divided there? What was their hierarchy? How did their division and hierarchy evolve over time? What we can gather from a brief inquiry into the titles of the Salon catalogues is a remarkably stable division of visual practices, with a clear hierarchy that puts painting on top, followed by sculpture.<sup>9</sup> Within painting, moreover, the supremacy of history painting remained in force until well into the second third of the nineteenth century, even as its dominance was eroded by the growing popularity of genre and landscape painting and the advent of a watered-down version of history painting, the _genre historique_.
 
+<figure>
+    ![Paul Delaroche, Hémicycle (detail), 1841-41](/assets/img/04/delaroche-hemicycle.jpg)
+    
+    <figcaption>
+        **Paul Delaroche, _Hémicycle_ (detail), 1841-41**, fresco, 12' 9" x 81' 11 1/8".
+    </figcaption>
+</figure>
+
 Perhaps the most significant self-portrait of the Beaux-Arts system was provided by one of the first and best proponents of the _genre historique_, Paul Delaroche, when he was commissioned to allegorize the system as a whole by decorating the hemicycle of the École des Beaux-Arts. He aligned a string of (all male!) painters, sculptors, and architects from antiquity to the seventeenth century (and not beyond!) on either side of a central group comprising three seated ancients—the architect Ictinus, the painter Apelles, and the sculptor Phidias—flanked by an allegory of Gothic art on the left and an allegory of the Renaissance on the right, while on the proscenium the _génie des arts_ (in the plural) get ready to hand out wreaths of laurels to deserving students.<sup>10</sup> The ideological message is clear: The Beaux-Arts system has been in place since antiquity; the history of art is a genealogy of great, exemplary men; there are three seats for artists to occupy, and occupy a seat they must. All artists are draftsmen; the printmakers are either painters or subordinate to painters; hybrids such as bas-relief do exist, but its straddling of painting and sculpture has been codified since Donatello. In the Beaux-Arts system (in France and elsewhere), a plurality of well-separated art practices with nothing in between is the rule. For something to be art, it must either be a painting or a sculpture, and so on, or—to extend the categories beyond the visual arts—a poem, a piece of music, a play, etc.<sup>11</sup> The implication is that if a given object were to fall in the no-man's-land between the acknowledged art practices, we would be hard-pressed to call it art at all.
 
 The second factor in the birth of non-art is the binary character of the jury's verdict at the Salon, and the way in which it set an "all or nothing" paradigm for aesthetic judgment. Aesthetic experience involves judging along a continuous gradation of quality, and there is no reason to think that the Salon jury experienced art any differently.<sup>12</sup> Although the composition of the jury varies throughout the nineteenth century—the jurors were sometimes state appointees, sometimes elected by the artists, and sometimes chosen from both groups—the majority were most often artists. To give just one example, the 1868 jury comprised eighteen men: five members of the Institut de France; one professor at the École des Beaux-Arts; three future academicians; three outsiders with respect to the academy; and six state appointees who were not artists.<sup>13</sup> Not only did the artists dominate, but in this particular jury all were painters—a striking indicator of the hierarchy still prevalent under the Second Empire. All were highly skilled professionals trained in the appreciation of works of art, capable of making subtle judgments, and whose personal preferences covered a wide range of schools and tastes. But no matter how generously we imagine the jury's goodwill and fairness, in practice its deliberations had to be expedited in record time, leaving little room for nuanced discussion.<sup>14</sup> Moreover, the jury's hand was forced. It saw a brutal either/or superimposed on even the most fine-tuned evaluation of so many shades of quality. Either a work was admitted into the Salon or it was rejected, there was no middle ground. If it was admitted, the jury could avail itself of a whole system of first-, second-, and third-class medals to express the warmth of its admiration, but first it must be admitted. One work might be admitted while another by the same artist might be rejected. Repeated rejection over the years could make an artist's career extremely difficult. Not before the Impressionists did artists boycott the Salon and rely on their dealers to promote their work. Only with the collapse of the Beaux-Arts system in the 1880s did visibility at the Salon cease to be the sine qua non condition of—and success at the Salon the mandatory path toward—a profitable livelihood as a professional artist. It is thus not an exaggeration to say that, funneled through the decisive verdict of the Salon jury, careers were made and unmade at the Salon.
 
 The nineteenth century is punctuated with protests—not so much against the jury's conservatism, as the triumphalist histories of modern art routinely assume, as against its severity and arbitrariness. After the jury of the 1827 Salon eliminated 1,635 works out of 3,469, Étienne-Jean Delécluze, Jacques-Louis David's pupil and biographer, who usually sided with the administration, was so outraged that he proposed an _exhibition particulière_ at the Galerie Lebrun, which the press hailed as a _"salon d'opposition_."<sup>15</sup> (The expression "salon des refusés" had not been coined yet.) In 1840, the ratio of rejected works climbed to an unprecedented 54 percent.<sup>16</sup> Étienne Huard, a liberal critic for the _Journal des Artistes,_ appealed to the public to protest against such unspeakable acts of censorship and urged the artists to show the rejected works in the Galeries Artistiques on boulevard Bonne-Nouvelle.<sup>17</sup> In the end, the show was a flop: Many artists chickened out for fear of retaliation or out of shame over their rejection from the Salon.
+
+<figure>
+    ![Max Berthelin's 1854 cross-section rendering of the Palais de l'industrie, Paris, site of the Salon des Refusés, 1863.](/assets/img/04/max-berthelin.jpg)
+    
+    <figcaption>
+        **Max Berthelin's 1854 cross-section rendering of the Palais de l'industrie, Paris, site of the Salon des Refusés, 1863.**
+    </figcaption>
+</figure>
 
 By contrast, the rejected artists of 1863—the year of the Salon des Refusés proper—were shielded from fear and shame because this time the exhibition of the refused works was held under the auspices of His Majesty the Emperor. Having heard of the artists' protests, Napoleon III ignored the jury and used his supreme authority to grant the rejected artists an exhibition space next to the official Salon. No doubt he did this out of demagogy and not because he disagreed with the jury's taste, but the result was the same. It is a mistake, then, to read the Salon des Refusés as an "alternative" exhibition and as the glorious revenge of the avant-garde against academicism: The public flocked to the Refusés mainly to laugh at the rejected works, and in many instances the crowd was right. As the critic Jules-Antoine Castagnary wrote in _L'Artiste_, "Before the exhibition of the Refused, we were unable to figure out what a bad painting was. Now we know it."<sup>18</sup>
 
@@ -55,6 +87,14 @@ Among the works rejected by the 1863 Salon and shown at the Refusés were three 
 
 > M. Manet doesn't know how to compose a tableau, or rather; he has no idea of what is meant by a tableau. . . .  When he places two or three nude figures [sic] on a large canvas, next to two or three of others wearing an overcoat, in the middle of a landscape hastily brushed in, I wish he had helped me understand his intention. I'm not asking him some philosophical lesson, rather the visible translation of some impression. I'm looking for his and can't find it; it is a rebus blown out of proportion, which no one will ever unravel.<sup>21</sup>
 
+<figure>
+    ![Charles Amédée de Noé's cartoon published in Cham au Salon de 1863: Deuxiéme promenade (Martinet Paris, 1863).](/assets/img/04/charles-amedee-de-noe.jpg)
+    
+    <figcaption>
+        **Charles Amédée de Noé's cartoon published in _Cham au Salon de 1863: Deuxiéme promenade_ (Martinet Paris, 1863).** Caption reads: "My son, remove your cap! Pay your respects to the failed attempt."
+    </figcaption>
+</figure>
+
 The metaphor of the rebus occurs more than once; for example, under the pen of Louis Étienne: "I search in vain for the meaning of this unbecoming rebus."<sup>22</sup> Failure to read a rebus leaves the viewer to struggle with a meaningless string of unrelated fragments, a disparate collection of morceaux never adding to a whole. In the criticism and shoptalk of the time, the word _morceau_ was the dialectical counterpart of _tableau_. Alphonse Legros, Manet's colleague in what Fried calls the generation of 1863, expressed this dialectic elegantly: "I would call tableaux all successful morceaux that naturally make a composition without seeking to be one."<sup>23</sup> More often than not, the critics judged that Manet could pull off successful morceaux, which, however, did not amount to a tableau.<sup>24</sup> In 1870, Castagnary concluded:
 
 > I have nothing to say about this painter who for ten years seems to have made it his task in each Salon to show us that he possesses part of the qualities necessary to make tableaux. I don't deny those qualities; but I'm waiting for the tableaux.<sup>25</sup>
@@ -64,6 +104,14 @@ The convergence of aesthetic expectations on the notion of the tableau is the th
 Let's remember that the majority of the Salon jurors were artists; we might want to look into the psychology behind their decisions. I'll take my clue from Leo Steinberg: "Whenever there appears an art that is truly new and original, the men who denounce it first and loudest are artists." This is from his well-known 1962 article titled "Contemporary Art and the Plight of Its Public," which I find very moving and so relevant to the matter at hand that I'm tempted to retitle it "Salon Art and the Plight of Its Jury." "As to the 'plight,'" Steinberg writes, "here I mean simply the shock of discomfort, or the bewilderment or the anger or the boredom which some people always feel, and all people sometimes feel, when confronted with an unfamiliar new style."<sup>27</sup> The article contains the avowal of Steinberg's own reaction to "an unfamiliar new style"—a reaction that I think is very close to what must have been that of the Salon jury when confronted with Manet's _Le Bain_. Recalling his response to Jasper Johns's first one-man show in New York in 1958, Steinberg writes:
 
 > I disliked the show, and would gladly have thought it a bore. Yet it depressed me and I wasn't sure why. Then I began to recognize in myself all the classical symptoms of a philistine's reaction to modern art. I was angry at the artist. . . . I was irritated at some of my friends for pretending to like it—but with an uneasy suspicion that perhaps they did like it, so that I was really mad at myself for being so dull, and at the whole situation for showing me up. And meanwhile, the pictures remained with me—working on me and depressing me. . . . If I disliked these things, why not ignore them? It was not that simple. For what really depressed me was what I felt these works were able to do to all other art. The pictures of de Kooning and Kline, it seemed to me, were suddenly tossed into one pot with Rembrandt and Giotto.<sup>28</sup>
+
+<figure>
+    ![Jasper Johns, Target with Four Faces, 1955](/assets/img/04/target-with-four-faces.jpg)
+    
+    <figcaption>
+        **Jasper Johns, _Target with Four Faces_, 1955**, encaustic on newspaper and cloth, canvas, tinted plaster, wooden box with hinged front, with box open 33 5/8 x 26 x 3".
+    </figcaption>
+</figure>
 
 If an observer of contemporary art as unprejudiced as Steinberg admits that a new, unexpected work is able to throw him into such a state of depression, you can imagine how upset the Salon jurors must have been in 1863 when they had to appraise Manet's _Le Bain_. How much easier it must have been for them to judge that it was not a tableau worthy of the name, rather than to recognize that it was done by a painter who, they must have sensed, surpassed them all. We can hear them exclaim: "That's not a tableau, that's not painting!" And we would not fail to hear, in the tone of their outcry, the "discomfort, or the bewilderment or the anger or the boredom"—I'd say anger more than boredom—or other such signs of emotional turmoil that give their exclamation away for the denial it really is. As surely as the analysand's protest that the thought of killing his father never crossed his mind rings as an avowal of his Oedipus complex to the psychoanalyst's ear, so "That's not a tableau!" rings to the art historian's ear as an unacknowledged avowal of the jury's plight. The jurors _knew_ that with _Le Bain_ Manet had radically redefined the tableau; they just couldn't stand it.
 
@@ -85,11 +133,33 @@ Mallarmé is well aware that the worst "framed pictures" are tableaux, nominally
 
 There would be no art—in the singular. Delacroix had died in August 1863, a few weeks after the Salon des Refusés ended. If he visited it and saw _Le_ _Bain_, which is doubtful, he never expressed his opinion. My guess is that despite his possible irritation he would not have refused that painting the quality of a tableau; he would have displayed the same intelligent openness as Steinberg when the latter set out to write on the very paintings that had so depressed him a few years before.<sup>31</sup> Not so the 1874 jury: The jurors took Delacroix at his word and masqueraded their emotional denial as reasoned negation. Like _Le Bain_ in 1863, Manet's _Masked Ball at the Opera_ fell into the limbo of non-art in 1874.
 
+<div class="lockup manet">
+    <figure>
+        ![Édouard Manet, La Gare Saint-Lazare (The Railway), 1873](/assets/img/04/le-gare-saint-lazare.jpg)
+        
+        <figcaption>
+            **Édouard Manet, _La Gare Saint-Lazare_ (The Railway), 1873**, oil on canvas, 36 3/4 x 42 1/8"
+        </figcaption>
+    </figure>
+    
+    <figure>
+        ![Édouard Manet, Bal masqué à l'opéra (Masked Ball at the Opera), 1873](/assets/img/04/bal-masque-a-lopera.jpg)
+        
+        <figcaption>
+            **Édouard Manet, _Bal masqué à l'opéra_ (Masked Ball at the Opera), 1873**, oil on canvas, 23 1/4 x 28 1/8".
+        </figcaption>
+    </figure>
+</div>
+
 Ten years later, in 1884, the Société des Artistes Indépendants was founded, and this event signaled the third stage in the invention—or, better, the discovery—of non-art, each stage bringing us closer to full awareness of the existence of such a limbo. Of crucial importance to this third stage is that the Société's no-jury rule implicitly contained the a priori admission that anything a member would present counted as potential art. What the Société did not foresee, even though it logically followed from its no-jury rule, was that a _betrayal_ of said rule automatically amounted to the _denial_ of the rejected work's potential art status. Whatever the Société refused to show would ipso facto be tossed into the limbo of non-art, where it would keep company with _Le Bain_, _Masked Ball at the Opera_, and all the other paintings that had been banned from public view over the years because the Salon jurors could not, would not, admit that the works were tableaux worthy of the name.
 
 There is to my knowledge no other record of the Société betraying its no-jury rule and rejecting the work of one of its members other than the episode when Duchamp's _Nude Descending a Staircase (No. 2)_ was expelled from the 1912 Salon des Indépendants, presumably for not being a _tableau cubiste_ worthy of the name. With that event, the fourth stage in the birth of non-art was reached. The event on which the fifth and last stage hinged now leaps to the eye: It is the repetition of the Société's betrayal by its American carbon copy, the New York Society of Independent Artists, in 1917. Of course this time around, the repetition was contrived; the betrayal was shrewdly anticipated; Duchamp _planned_ that the urinal "innocently" handed in by Richard Mutt would be refused and would thus be tossed into the limbo of non-art. He was able to do so because he had firsthand experience of an object in the nature of _Le_ _Bain_ having been tossed into it, a painful experience he would neither forget nor forgive: The _Fountain_ episode was the voluntary and vengeful replay of the _Nude Descending a Staircase_ episode. It brought the invention or discovery—both words are in the end equally inadequate—of non-art full circle when Duchamp published the photo of R. Mutt's_ urinal_ in _The Blind Man_, with the triple caption: "Fountain by R. Mutt"; "Photograph by Alfred Stieglitz"; "THE EXHIBIT REFUSED BY THE INDEPENDENTS." With that photo, Duchamp pulled R. Mutt's_ urinal_ from the limbo of non-art and patiently waited for the art critics of the '60s and '70s to fall into his trap—and to make non-art a subcategory of art.
 
 Don't ask whether Duchamp was fully conscious of having put a message in the mail with _Fountain_, a message that, once peeled, onion-like, reveals him as the messenger of non-art. Ask, rather, if there are more layers to the onion. There should be at least one: The circumstances of the progressive birth of non-art are congruent with the time and place in which the Beaux-Arts institution collapsed. When one institution collapses, another takes its place: History, like nature, abhors a vacuum. The new institution, in which we still live and which I call Art-in-General, has _negativity_ branded on its birth certificate—negativity resting on _betrayal_ and fueled by _denial_. I doubt it's the kind of dialetically _positive_ negativity Buchloh has in mind when he argues that artistic production should be judged "by its dialetical capacities of critical negativity and utopian anticipation"—but who knows? Ask the messenger, read the message, there is still more to it.
+
+<div class="author-note">
+    Thierry de Duve is currently teaching at the School of Visual Arts in New York. In Fall 2013, he was Kirk Varnedoe visiting professor at the Institute of Fine Arts, New York University.
+</div>
 
 <div class="notes">
     <h3>Notes</h3>

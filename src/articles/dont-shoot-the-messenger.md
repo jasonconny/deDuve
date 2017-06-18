@@ -230,6 +230,10 @@ For Henri, independence was synonymous with individuality. The American founding
 
 The transplant did not take. The Society of Inde­pendent Artists contributed nothing to the history of avant-garde art in the US. Its only memorable salon is the first one, and then only on account of the one item that was not exhibited! But the fact that the R. Mutt affair took place in that particular institutional context is very much part of the message Duchamp put in the mail in 1917 with _Fountain_. On the face of it, the message stated: Anything and everything can now be art. "Now" refers to 1917, not 1964, the year of Schwarz's replicas, Beuys's _The Silence of Marcel Duchamp Is Overrated_, Warhol's Brillo Boxes, and other acknowledgments of receipt of the message. On the whole, the art world of the '60s succumbed to the Duchamp syllogism and mistook a condition for a consequence. They read, "If B, then A," where the messenger had written, "If A, then B." Our inquiry allows us to rephrase the message, putting what comes first first: Anyone and everyone can now be an artist; consequently, anything and everything can now be art. Does "now" still refer to 1917? If we focus on the consequence, yes. But if we focus on the condition, "now" actually refers to 1884, the year the Société des Artistes Indépendants was founded in Paris by a circle of artists around Georges Seurat and Paul Signac. "Anything can be art," the first layer of meaning in Duchamp's message, is a red herring. "Anyone can be an artist," the second layer, gets us closer to the core of the matter. But there are more layers waiting to be peeled away, and to get to the next one, we might as well ask the question several critics posed at the 1884 Salon des Indépendants: Why did those artists call themselves _Indépendants_? Independent of whom, of what?
 
+<div class="author-note">
+    Thierry de Duve is currently teaching at the School of Visual Arts in New York. In Fall 2013, he was Kirk Varnedoe visiting professor at the Institute of Fine Arts, New York University.
+</div>
+
 <div class="notes">
     <h3>Notes</h3>
 

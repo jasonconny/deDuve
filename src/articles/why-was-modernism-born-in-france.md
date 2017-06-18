@@ -208,6 +208,10 @@ Duchamp's message is mute when it comes to the definition of modernism in painti
 
 Duchamp would have grinned reading About. He nonetheless drew consequences for art—not so much from the demise of the jury system as from that system itself—that About would never have anticipated. They were diabolical. He was not responsible; he was, after all, merely the messenger.
 
+<div class="author-note">
+    Thierry de Duve is currently teaching at the School of Visual Arts in New York. In Fall 2013, he was Kirk Varnedoe visiting professor at the Institute of Fine Arts, New York University.
+</div>
+
 <div class="notes">
     <h3>Notes</h3>
 

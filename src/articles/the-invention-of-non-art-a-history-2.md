@@ -87,6 +87,10 @@ The limbo of non-art now contains one object that _everybody agrees_ doesn't bel
 
 But _Fountain_ is more than an idea, and it's not illustrated theory. Embodied theory, perhaps. The more I think about it, the more I tend to see _Fountain_ as the most remarkable thought experiment about art ever contrived, as dry and ethereal and mysteriously political as those quattrocento _citte ideale_ once attributed to Piero della Francesca. An ideal city is a transcendental place of agreement in disagreement: an agora empty of flesh-and-blood people, a haven in the public sphere based on the principal legitimacy of dissent. _Fountain_ prompts agreement about its belonging to the Art-in-General system, something that cannot be positively ascertained. Indeed, there is no proof that the system even exists. There is no proof that everything can be art. There are only dissenting judgments. To paraphrase Mallarmé, the judge of art has only to say: "This is art," of "this is not art." And as Reinhardt knew, only the latter is an absolute statement.
 
+<div class="author-note">
+    Thierry de Duve is currently teaching at the School of Visual Arts in New York. In Fall 2013, he was Kirk Varnedoe visiting professor at the Institute of Fine Arts, New York University.
+</div>
+
 <div class="notes">
     <h3>Notes</h3>
 

@@ -89,6 +89,10 @@ Without going into the philosophical reasons why this is so, let me state the ob
 
 I keep wondering about the intuitive truth Enwezor hit upon with his claim that "is" and "can be" amounted to the same thing in the case of Duchamp's readymades. It is true only for _Fountain_, but its truth is profound. The reflective aesthetic judgment that confirms or reconfirms _Fountain_'s art status follows the feedback loop of the mind that restates our initial postulate that all urinals, and indeed all things in the universe, _can be_ art. To make that postulate has now become both a theoretical necessity and a quasi-ethical obligation, because there is no empirical proof that we live in a world where anything can be art and where anyone can be an artist. Duchamp the angel was no prophet of that kind of liberation. But those, like John Cage, who felt the wind of liberty ruffle their feathers were not entirely wrong to thank him for it.
 
+<div class="author-note">
+    Thierry de Duve is currently teaching at the School of Visual Arts in New York. In Fall 2013, he was Kirk Varnedoe visiting professor at the Institute of Fine Arts, New York University.
+</div>
+
 <div class="notes">
     <h3>Notes</h3>
 

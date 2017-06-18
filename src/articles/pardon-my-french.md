@@ -183,6 +183,10 @@ Artists were registering the fun and lack of importance of art in a variety of w
 
 The big questions will have to wait. From the point of view of the question "Since when?" Kosuth's claim is a sure sign that Duchamp's telegram had arrived. By the end of the '60s, it was in everyone's mailbox, and everyone was hurrying to find an adequate response. Between Ben's (the most straightfoward) and Kosuth's (the most elaborate) a small decade had passed, in which the most pervasive response, the most successful because the most promising and liberating, was already contained in the reasoning behind Ben's _Black Box_. I'll call it the Duchamp syllogism: When a urinal is art, anything can be art; and when anything can be art, anybody can be an artist. Pardon my French, or rather Robert Filliou's, this time: "_Oui, oui, voilà, oui! Tout le monde sera un artiste_." The future tense is telling. It is the signature of utopian thinking.
 
+<div class="author-note">
+    Thierry de Duve is currently teaching at the School of Visual Arts in New York. In Fall 2013, he was Kirk Varnedoe visiting professor at the Institute of Fine Arts, New York University.
+</div>
+
 <div class="notes">
     <h3>Notes</h3>
 

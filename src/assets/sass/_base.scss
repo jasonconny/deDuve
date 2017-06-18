@@ -209,6 +209,14 @@ figcaption {
   margin: .5em 0 0;
 }
 
+.author-note {
+  font-family: "Open Sans", sans-serif;
+  font-size: .75em;
+  line-height: 1.5;
+  margin: 3em 0 0;
+  text-transform: uppercase;
+}
+
 .lockup {
   align-items: flex-start;
   display: flex;
@@ -325,6 +333,18 @@ figcaption {
         }
         &:last-of-type {
           width: calc(58% - 1em);
+        }
+      }
+    }
+  }
+  .the-invention-of-non-art-a-history-part-1 & {
+    &.manet {
+      figure {
+        &:first-of-type {
+          width: calc(50% - 1em);
+        }
+        &:last-of-type {
+          width: calc(50% - 1em);
         }
       }
     }
@@ -486,5 +506,11 @@ figcaption {
     &:first-of-type {
       width: 100%;
     }
+  }
+}
+
+@media screen {
+  .notes {
+    display: none;
   }
 }
