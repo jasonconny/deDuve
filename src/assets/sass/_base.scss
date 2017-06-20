@@ -120,8 +120,9 @@ li {
 
 p {
   line-height: 1.5;
-  + p {
-    margin: 1em 0 0;
+  margin: 1em 0 0;
+  &:first-of-type {
+    margin: 0;
   }
   .intro & {
     font-family: "Open Sans", sans-serif;
@@ -378,6 +379,18 @@ figcaption {
       }
     }
   }
+  .this-is-art-anatomy-of-a-sentence & {
+    &.manet-michelangelo {
+      figure {
+        &:first-of-type {
+          width: calc(49.375% - 1em);
+        }
+        &:last-of-type {
+          width: calc(50.625% - 1em);
+        }
+      }
+    }
+  }
 }
 
 .toc {
@@ -455,7 +468,8 @@ figcaption {
   h2,
   h3,
   ol,
-  p {
+  p,
+  .author-note {
     max-width: 840px;
   }
   h2 {
